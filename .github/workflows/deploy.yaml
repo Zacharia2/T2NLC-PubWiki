@@ -18,15 +18,15 @@ permissions:
 
 jobs:
   deploy:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-node@v3.6.0
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v3.8.1
         with:
-          node-version: '16'
+          node-version: '18'
 
       - name: Cache dependencies
-        uses: actions/cache@v3
+        uses: actions/cache@v3.3.0
         with:
           path: |
             **/node_modules
@@ -46,10 +46,10 @@ jobs:
         run: npx workbox injectManifest workbox-config.js
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1.0.8
+        uses: actions/upload-pages-artifact@v2.0.0
         with:
           # Upload entire repository
           path: ./public-dist
       - name: 部署到GitHub页面
         id: deployment
-        uses: actions/deploy-pages@v2.0.1
+        uses: actions/deploy-pages@v2.0.4

@@ -1,0 +1,11 @@
+created: 20230615122424009
+creator: WhiteFall
+modified: 20230901112449033
+modifier: WhiteFall
+tags: $:/tags/SideBar
+title: 元素词云
+type: text/vnd.tiddlywiki
+
+<$list filter="[has:field[obvault]type[text/markdown]]">
+<$link to=<<currentTiddler>>><$view field="caption"/>、</$link>
+</$list>

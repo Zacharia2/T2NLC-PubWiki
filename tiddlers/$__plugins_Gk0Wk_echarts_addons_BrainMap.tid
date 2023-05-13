@@ -1,0 +1,42 @@
+created: 20230901113405113
+creator: WhiteFall
+modified: 20230901113814973
+modifier: WhiteFall
+title: $:/plugins/Gk0Wk/echarts/addons/BrainMap
+type: text/vnd.tiddlywiki
+
+{
+  "tooltip": {
+    "trigger": "item"
+  },
+  "series": [{
+    "type": "graph",
+    "layout": "force",
+    "roam": true,
+    "animation": false,
+    "label": {
+      "position": "right",
+      "formatter": "{b}"
+    },
+    "draggable": false,
+    "data": [
+      <$list filter="[all[tiddlers]has:field[obvault]!is[shadow]!is[system]!is[image]]">
+        {"name": "<<currentTiddler>>"},
+      </$list>
+    ],
+    "force": {
+      "edgeLength": 25,
+      "repulsion": 50,
+      "gravity": 0.1
+    },
+    "edges": [
+      <$list>
+        <$set name=currentSource value=<<currentTiddler>> >
+          <$list filter="[all[current]links[]]">
+            {"source":"<<currentSource>>", "target": "{{!!title}}"},
+          </$list>
+        </$set>
+      </$list>
+    ]
+    }]
+}

@@ -1,0 +1,10 @@
+created: 20230902071431470
+creator: WhiteFall
+modified: 20230902072850906
+modifier: WhiteFall
+tags: [[Hi Python]]
+title: Latex文档排版系统
+
+MiKTeX 是一款适用于 Windows、Linux 和 macOS 的现代 TeX 发行版。
+
+如果需要，MiKTeX 的集成软件包管理器会从互联网上安装缺失的组件。这样，您就可以尽可能减少 TeX 安装（"只需足够的 TeX"）。

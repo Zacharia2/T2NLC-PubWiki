@@ -1,0 +1,27 @@
+class: notebook
+created: 20230906073103413
+creator: WhiteFall
+modified: 20230906075126531
+modifier: WhiteFall
+tags: 
+title: Callout标注
+
+<<card 
+header:"[!INFO]"
+text:"""Here's a callout block."""
+class:"border-info text-info"
+>>
+
+<<card 
+header:"[!NOTE]"
+text:""" For compatibility reasons, if you're also using the Admonitions plugin, you should update it to at least v8.0.0 to avoid problems with the new callout system."""
+class:"border-secondary  text-primary"
+>>
+
+<<card 
+header:"[!Todo]"
+text:"""Here's a callout block."""
+class:"border-primary text-info"
+>>
+
+<<alert primary src:"Leftbar alert primary" class:"leftbar border-primary">>

@@ -1,0 +1,1 @@
+def::pub this Ti super [[科学|λ:/Neural-Networks/元素/科学]]，[[思维工具|λ:/Neural-Networks/元素/思维工具]]

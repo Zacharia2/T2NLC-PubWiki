@@ -1,59 +1,22 @@
-# TW5-T-G-O
+# T2NLC-PubWiki
 
-tiddlywiki deploy GitHub pages
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-> 此仓库模仿太微中文和太记知识模板，是为了快速在github上部署静态tiddlywiki页面。
+Hi 你好呀，朋友。这是一个实验环境，又或特化的知识图谱，是一个用于思考的过程容器，是只简单经过清洗后聚类但没整理的系列笔记。笔记系统使用【GrowthKSM】创建，本体使用Obsidian写作，应用Obsidian-Vault插件导入在TiddlyWiki中公开，所有内容都将不断地被推理、证伪、重建、修改，是一个不断生长的笔记系统。与此共同进步的还有经过编程与数理思维设计后的GrowthKSM。如果你觉得尚可，也许可以点亮一颗小星星以资鼓励。
 
-仅需三步：一、放置tw数据，二、配置必要设置、三、启用action。然后就可以正常使用了。
+你可以在侧边栏的VaultTrees中找到所有公开的笔记，每个条目第一行为当前条目的语义空间定义。
 
-- 效果预览链接：https://tiddly-gittly.github.io/TW5-T-ONLINE/
-- 可离线版本链接：https://tiddly-gittly.github.io/TW5-T-ONLINE/offline.html 
-
-> 仅需在你的TiddlyWiki链接末尾加上offline.html即可访问可离线使用的TW。如上可离线版本链接示例所示。
-
-## 开始使用
-1. 点击`Use this template`创建属于你的仓库。
-2. 克隆你的仓库到本地。
-3. 使用已有的文件夹wiki中的数据（tiddlers与plugins文件夹）覆盖克隆到本地后的tiddlers，plugins文件夹。（仅需要覆盖这两个文件夹即可，如果你有自定义的文件路径可以照搬过来就是。）
-4. 设置Github图片仓库位置路径：找到条目：tiddlers/`$:/GitHub/Repo` ，条目内容修改为：Zacharia2(用户名)/TW5-T-ONLINE(现在使用的WIKI仓库)
-5. 提交更改并推送到github仓库。
-6. 设置GitHub pages，点击仓库设置（页面上面code按钮最右边的settings按钮），然后点击pages。然后找到Build and deployment的Source设置为Actions。
-![image](https://user-images.githubusercontent.com/32425955/211513957-2e679998-6035-4904-9c0e-58fab7963b05.png)
-7. 等待actions执行完成。你可以在（setting）仓库设置-Pages中找到生成的链接
+- 主页链接：https://zacharia2.github.io/T2NLC-PubWiki/
+- 可离线版本链接：https://zacharia2.github.io/T2NLC-PubWiki/offline.html 
 
 
-- HTML-Wiki转Folder-Wiki的方法：
-    1. 用TidGi转换HTMLWiki，找到转换后的wiki文件夹。
-    2. 使用NodeJS版TiddlyWiki的`HTML转文件夹`命令生成wiki文件夹。
-    3. 直接使用TidGi创建。
+## 协议
 
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
-**注意：** 在 v0.7.15-prerelease 太记 版本中，导入Wiki.HTML功能可以完美转换，其原理是使用NodeJS-TW的`savewikifolder`命令，但由于太记对于插件的升级策略（[参见 issue #324](https://github.com/tiddly-gittly/TidGi-Desktop/issues/324)）与现有的NodeJS-TW插件升级策略不一致，所以太记暂时不支持`使用导入Wiki.HTML功能`后的Wiki的插件升级。如果要升级可以有两种选项，使用NodeJS启动TW进行升级，另一种是使用quicker脚本批量移动插件以适配太记的插件升级策略后使用太记升级。
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
 
-## 介绍配置文件
-
-| 配置文件                                 | 描述                                   |
-| ---------------------------------------- | -------------------------------------- |
-| package.json                             | 项目或模块描述文件                     |
-| tiddlywiki.info                          | TiddlyWiki 的配置文件                  |
-| .github\workflows\deploy.yaml            | Github-Action配置文件                  |
-| .gitignore                               | Git指定忽略项的配置文件                |
-| public\service-worker.js                 | 缓存策略配置文件                       |
-| tiddlers\$__GitHub_Repo.tid              | Github仓库资源与图像的仓库路径配置文件 |
-| scripts\html-minifier-terser.config.json | HTML 缩小器配置文件                    |
-| scripts\build.js                         | js                                     |
-| scripts\build-wiki.mjs                   | zx                                     |
-
-
-## 维护说明与记录
-> 可修改的配置文件：build-wiki.mjs、build.js、package.json、deploy.yaml、tiddlywiki.info、.gitignore、service-worker.js  
-> 其它：`https://raw.githubusercontent.com/用户名/仓库/分支/路径/文件名.后缀`
-
-两种构建方式：
-1. js：scripts\build.js（默认构建方式）
-2. zx：scripts\build-wiki.mjs
-
-> （已关闭此功能）仅当添加修改条目、插件以及package.json文件时触发actions更新GitHub Pages。
-> 
-> （已启用此功能）缓存策略 public\service-worker.js 配置中 index.html 的 NetworkFirst（网络优先）策略。
-
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg

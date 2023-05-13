@@ -1,0 +1,1 @@
+def::pub this Ti super  [[思维工具|λ:/Neural-Networks/元素/思维工具]] weak 正反馈#[[正负反馈|λ:/Neural-Networks/元素/正负反馈]]

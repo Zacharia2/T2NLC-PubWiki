@@ -1,0 +1,13 @@
+created: 20230829001842640
+creator: WhiteFall
+modified: 20230830094243755
+modifier: WhiteFall
+title: vault/path/name
+
+λ:/vault/path/name
+
+仅md文件如此，且没有后缀。一般链接为`[[name]]`
+
+其它附件皆为 `![[name.f]]`
+
+创建文件的时候可以取此种格式，但引用却是在md文件中使用链接语法。故需要仅在md文件中执行替换。

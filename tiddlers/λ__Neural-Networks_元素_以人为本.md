@@ -1,0 +1,1 @@
+def::pub this Ti p=[curr]

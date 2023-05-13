@@ -1,0 +1,5 @@
+def::pub this Ti super [[IANDTA|λ:/Neural-Networks/元素/IANDTA]]
+
+物理上的与精神上的碰撞、摩擦、起火
+
+不光考虑哲学与思维还要考虑物理与碰撞

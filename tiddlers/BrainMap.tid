@@ -1,0 +1,12 @@
+created: 20230908003707136
+creator: WhiteFall
+modified: 20230908003730069
+modifier: WhiteFall
+tags: $:/tags/SideBar
+title: BrainMap
+
+<$echarts
+  $tiddler="$:/plugins/Gk0Wk/echarts/addons/BrainMap"
+  $height="500px"
+  dblclick="(params, parentWidget) => { parentWidget.dispatchEvent({ type: 'tm-navigate', navigateTo: params.data.name }) }"
+/>

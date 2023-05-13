@@ -1,0 +1,1 @@
+def::pub this Ti super [[智力|λ:/Neural-Networks/元素/智力]]
