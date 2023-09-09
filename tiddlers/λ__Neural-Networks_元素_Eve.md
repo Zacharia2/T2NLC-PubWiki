@@ -1,4 +1,4 @@
-def::pub this Ti p=[curr] super [[思维工具|λ:/Neural-Networks/元素/思维工具]] cite [[等价变换]]
+def::pub this Ti p=[curr] supset [[思维工具|λ:/Neural-Networks/元素/思维工具]] cite [[等价变换]]
 
 # Eve
 

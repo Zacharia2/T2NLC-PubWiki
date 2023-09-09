@@ -1,4 +1,4 @@
-def::pub this Ti super [[细胞膜|λ:/Neural-Networks/元素/细胞膜]]
+def::pub this Ti supset [[细胞膜|λ:/Neural-Networks/元素/细胞膜]]
 
 关于知识体系的一切都应该思考后转换为通用语言之后在输出。否则就不要说。
 

@@ -1,4 +1,4 @@
-def::pub this Ti p=[curr] has [[个体心理学和整体论|λ:/Neural-Networks/元素/个体心理学和整体论]]，[[身体]] weak 道家、佛家、儒家、心理学、哲学、医学、逻辑学、数学、法律、道德经、易经、现代计算机技术、认知科学、语言{名与实}
+def::pub this Ti p=[curr] subset [[个体心理学和整体论|λ:/Neural-Networks/元素/个体心理学和整体论]]，[[身体]] weak 道家、佛家、儒家、心理学、哲学、医学、逻辑学、数学、法律、道德经、易经、现代计算机技术、认知科学、语言{名与实}
 
 # Humanity Itself
 

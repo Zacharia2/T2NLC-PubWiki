@@ -1,4 +1,4 @@
-def::pub this Ti super [[心理学|λ:/Neural-Networks/元素/心理学]]
+def::pub this Ti supset [[心理学|λ:/Neural-Networks/元素/心理学]]
 
 
 阿德勒将这些人际关系的过程归纳为三类，即"工作课题"、"交友课题"和"爱的课题"，统称为"人生课题"。

@@ -1,4 +1,4 @@
-def::pub this Ti super [[IANDTA|λ:/Neural-Networks/元素/IANDTA]] weak [[思维工具|λ:/Neural-Networks/元素/思维工具]]
+def::pub this Ti supset [[IANDTA|λ:/Neural-Networks/元素/IANDTA]] weak [[思维工具|λ:/Neural-Networks/元素/思维工具]]
 
 对于解决某个误会，直接的方式是拿出与上文等同的内容对上文进行补充（谁主张谁举证？）。间接的方式是新开一个频道或话题比如直接道歉。
 

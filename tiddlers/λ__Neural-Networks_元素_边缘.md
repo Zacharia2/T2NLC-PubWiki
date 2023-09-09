@@ -1,4 +1,4 @@
-def::pub this Ti super [[思维工具|λ:/Neural-Networks/元素/思维工具]] has [[知识边界|λ:/Neural-Networks/元素/知识边界]]
+def::pub this Ti supset [[思维工具|λ:/Neural-Networks/元素/思维工具]] subset [[知识边界|λ:/Neural-Networks/元素/知识边界]]
 
 # 边缘
 

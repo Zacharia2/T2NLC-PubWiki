@@ -1,4 +1,4 @@
-def::pub this Ti super [[细胞|λ:/Neural-Networks/元素/细胞]] cite 封装
+def::pub this Ti supset [[细胞|λ:/Neural-Networks/元素/细胞]] cite 封装
 
 
 ## 细胞边界（细胞膜）

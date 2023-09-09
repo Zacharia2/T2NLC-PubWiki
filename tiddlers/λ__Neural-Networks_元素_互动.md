@@ -1,4 +1,4 @@
-def::pub this Ti super [[相互的关系|λ:/Neural-Networks/元素/相互的关系]] unto [[社会学]]
+def::pub this Ti supset [[相互的关系|λ:/Neural-Networks/元素/相互的关系]] unto [[社会学]]
 
 社会学术语。指人与人之间的交互作用。分为感官的互动、情绪的互动和理智的互动。
 # 互动

@@ -1,4 +1,4 @@
-def::pub this Ti super [[哲学|λ:/Neural-Networks/元素/哲学]]
+def::pub this Ti supset [[哲学|λ:/Neural-Networks/元素/哲学]]
 
 
 从实用的观点看，哲学是无用 的。哲学能给我们一种观点，而观点可能很有用。用《庄子》的话说，这是“无用之用”(《人间世》)。

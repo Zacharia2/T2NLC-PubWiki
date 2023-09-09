@@ -1,4 +1,4 @@
-def::pub this Ti super [[生命的意义|λ:/Neural-Networks/元素/生命的意义]] impl [[开心（快乐）|λ:/Neural-Networks/元素/开心（快乐）]] 
+def::pub this Ti supset [[生命的意义|λ:/Neural-Networks/元素/生命的意义]] impl [[开心（快乐）|λ:/Neural-Networks/元素/开心（快乐）]] 
 
 
 首先，应该让自己保持快乐，不开心了就使自己先变得开心，然后再去做其它事情。

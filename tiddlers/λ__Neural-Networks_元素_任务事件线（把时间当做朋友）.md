@@ -1,4 +1,4 @@
-def::pub this Ti super [[任务序列|λ:/Neural-Networks/元素/任务序列]] cite [[注意力|λ:/Neural-Networks/元素/注意力]]，[[绝对时间|λ:/Neural-Networks/元素/绝对时间]]，[[有限性|λ:/Neural-Networks/元素/有限性]]
+def::pub this Ti supset [[任务序列|λ:/Neural-Networks/元素/任务序列]] cite [[注意力|λ:/Neural-Networks/元素/注意力]]，[[绝对时间|λ:/Neural-Networks/元素/绝对时间]]，[[有限性|λ:/Neural-Networks/元素/有限性]]
 
 ==管理时间=管理自己的任务列表（事情）==
 

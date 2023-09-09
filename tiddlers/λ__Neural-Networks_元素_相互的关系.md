@@ -1,4 +1,4 @@
-def::pub this Ti super [[IANDTA|λ:/Neural-Networks/元素/IANDTA]]、 [[语言|λ:/Neural-Networks/元素/语言]] cite AND
+def::pub this Ti supset [[IANDTA|λ:/Neural-Networks/元素/IANDTA]]、 [[语言|λ:/Neural-Networks/元素/语言]] cite AND
 
 
 #  关系（guānxì） Relation Relationship

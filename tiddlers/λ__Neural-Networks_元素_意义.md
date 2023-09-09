@@ -1,4 +1,4 @@
-def::pub this Ti has [[生命的意义|λ:/Neural-Networks/元素/生命的意义]]，[[主观评价|λ:/Neural-Networks/元素/主观评价]]
+def::pub this Ti subset [[生命的意义|λ:/Neural-Networks/元素/生命的意义]]，[[主观评价|λ:/Neural-Networks/元素/主观评价]]
 
 > 意义是指一件事物、行为或概念的含义或目的。它可以是文字、符号、符号或其他形式的表达方式。它是通过与其他事物或概念的关系来确定的。
 

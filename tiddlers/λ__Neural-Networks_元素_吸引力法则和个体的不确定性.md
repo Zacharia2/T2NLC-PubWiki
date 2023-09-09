@@ -1,4 +1,4 @@
-def::pub this Ti super [[镜像简化和抽象分析|λ:/Neural-Networks/元素/镜像简化和抽象分析]] cite [[不确定性与未知|λ:/Neural-Networks/元素/不确定性与未知]]
+def::pub this Ti supset [[镜像简化和抽象分析|λ:/Neural-Networks/元素/镜像简化和抽象分析]] cite [[不确定性与未知|λ:/Neural-Networks/元素/不确定性与未知]]
 
 
 ## 吸引力法则

@@ -1,4 +1,4 @@
-def::pub this Ti super [[数学思维|λ:/Neural-Networks/元素/数学思维]] weak [[自由与局限|λ:/Neural-Networks/元素/自由与局限]]
+def::pub this Ti supset [[数学思维|λ:/Neural-Networks/元素/数学思维]] weak [[自由与局限|λ:/Neural-Networks/元素/自由与局限]]
 
 
 # 统计与概率

@@ -1,4 +1,4 @@
-def::pub this Ti p=[curr] super [[数学思维|λ:/Neural-Networks/元素/数学思维]]
+def::pub this Ti p=[curr] supset [[数学思维|λ:/Neural-Networks/元素/数学思维]]
 
 # 单位与倍率
 

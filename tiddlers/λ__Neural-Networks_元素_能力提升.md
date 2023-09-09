@@ -1,4 +1,4 @@
-def::pub this Ti super [[思维工具|λ:/Neural-Networks/元素/思维工具]]，[[任务序列|λ:/Neural-Networks/元素/任务序列]]
+def::pub this Ti supset [[思维工具|λ:/Neural-Networks/元素/思维工具]]，[[任务序列|λ:/Neural-Networks/元素/任务序列]]
 
 
 # 能力提升

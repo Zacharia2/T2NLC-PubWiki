@@ -1,4 +1,4 @@
-def::pub this Ti super [[Hi (Humanity-Itself)|λ:/Neural-Networks/元素/Hi (Humanity-Itself)]]
+def::pub this Ti supset [[Hi (Humanity-Itself)|λ:/Neural-Networks/元素/Hi (Humanity-Itself)]]
 
 
 就是有一道特别难的题你不会，你问学霸这道题怎么做，他很快就写出来了，你问他你怎么做出来的，他说我也不知道，就这样写啊。

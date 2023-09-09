@@ -1,4 +1,4 @@
-def::pub this Ti super [[⭐健康|λ:/Neural-Networks/元素/⭐健康]]
+def::pub this Ti supset [[⭐健康|λ:/Neural-Networks/元素/⭐健康]]
 
 我们就一辈子，为什么要苦着过呢?突然间就理解了那些热爱生活的人们，活着还是要有点追求和爱好的。
 

@@ -1,4 +1,4 @@
-def::pub this Ti super [[IANDTA|λ:/Neural-Networks/元素/IANDTA]]、[[心理学|λ:/Neural-Networks/元素/心理学]]
+def::pub this Ti supset [[IANDTA|λ:/Neural-Networks/元素/IANDTA]]、[[心理学|λ:/Neural-Networks/元素/心理学]]
 
 
 【一件很重要，但爸爸妈妈可能没教我们的事-哔哩哔哩】 https://b23.tv/pN2sJ4J

@@ -1,4 +1,4 @@
-def::pub this Ti super [[IANDTA|λ:/Neural-Networks/元素/IANDTA]] cite [[人和环境是一个不可分割的整体|λ:/Neural-Networks/元素/人和环境是一个不可分割的整体]]
+def::pub this Ti supset [[IANDTA|λ:/Neural-Networks/元素/IANDTA]] cite [[人和环境是一个不可分割的整体|λ:/Neural-Networks/元素/人和环境是一个不可分割的整体]] unto [[S = { p_i , i ∈ N+ }|λ:/Neural-Networks/元素/S = { p_i , i ∈ N+ }]]
 
 
 # 不可能静止的系统（环境对个体的约束力）

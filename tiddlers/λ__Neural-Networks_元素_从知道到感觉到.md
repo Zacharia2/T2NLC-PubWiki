@@ -1,4 +1,4 @@
-def::pub this Ti super [[边缘|λ:/Neural-Networks/元素/边缘]]
+def::pub this Ti supset [[边缘|λ:/Neural-Networks/元素/边缘]]
 
 《心灵捕手》里尚恩与威尔的对话经典语录：
 

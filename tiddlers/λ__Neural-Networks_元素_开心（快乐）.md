@@ -1,4 +1,4 @@
-def::pub this Ti super [[情绪|λ:/Neural-Networks/元素/情绪]]，[[IANDTA|λ:/Neural-Networks/元素/IANDTA]] 
+def::pub this Ti supset [[情绪|λ:/Neural-Networks/元素/情绪]]，[[IANDTA|λ:/Neural-Networks/元素/IANDTA]] 
 
 
 # 快乐

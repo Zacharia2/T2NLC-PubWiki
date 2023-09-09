@@ -1,4 +1,4 @@
-def::pub this Ti p=[curr] super [[哲学|λ:/Neural-Networks/元素/哲学]]
+def::pub this Ti p=[curr] supset [[哲学|λ:/Neural-Networks/元素/哲学]]
 
 
 形而下（有形）

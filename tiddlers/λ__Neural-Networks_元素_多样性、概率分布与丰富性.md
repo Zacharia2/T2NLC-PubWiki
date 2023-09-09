@@ -1,4 +1,4 @@
-def::pub this Ti super [[数学|λ:/Neural-Networks/元素/数学]]，[[数学思维|λ:/Neural-Networks/元素/数学思维]]，[[思维工具|λ:/Neural-Networks/元素/思维工具]]
+def::pub this Ti supset [[数学|λ:/Neural-Networks/元素/数学]]，[[数学思维|λ:/Neural-Networks/元素/数学思维]]，[[思维工具|λ:/Neural-Networks/元素/思维工具]]
 
 
 ## 多样性、概率分布与丰富性

@@ -1,4 +1,4 @@
-def::pub this Ti super [[文学]]
+def::pub this Ti supset [[文学]]
 
 ## 论语选读
 

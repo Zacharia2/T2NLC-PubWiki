@@ -1,4 +1,4 @@
-def::pub this Ti super [[心智|λ:/Neural-Networks/元素/心智]] weak [[科学|λ:/Neural-Networks/元素/科学]]
+def::pub this Ti supset [[心智|λ:/Neural-Networks/元素/心智]] weak [[科学|λ:/Neural-Networks/元素/科学]]
 
 # 知识
 

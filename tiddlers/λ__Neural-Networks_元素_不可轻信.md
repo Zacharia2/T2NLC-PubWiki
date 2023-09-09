@@ -1,4 +1,4 @@
-def::publc this Ti super [[IANDTA|λ:/Neural-Networks/元素/IANDTA]]
+def::publc this Ti supset [[IANDTA|λ:/Neural-Networks/元素/IANDTA]]
 
 
 执行动作之前不给我解释清楚就不做。不能证明解释是正确的就不予考虑。

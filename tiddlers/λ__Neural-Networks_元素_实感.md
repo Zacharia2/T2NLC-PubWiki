@@ -1,4 +1,4 @@
-def::pub this Ti p=[curr] super [[思维工具|λ:/Neural-Networks/元素/思维工具]]
+def::pub this Ti p=[curr] supset [[思维工具|λ:/Neural-Networks/元素/思维工具]]
 
 # 实感
 解释：真实有个性的感情或思想。

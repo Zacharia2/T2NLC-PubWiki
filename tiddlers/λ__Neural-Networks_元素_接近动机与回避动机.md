@@ -1,4 +1,4 @@
-def::pub this Ti super [[IANDTA|λ:/Neural-Networks/元素/IANDTA]]，[[心理学|λ:/Neural-Networks/元素/心理学]]
+def::pub this Ti supset [[IANDTA|λ:/Neural-Networks/元素/IANDTA]]，[[心理学|λ:/Neural-Networks/元素/心理学]]
 
 
 # 接近动机与回避动机

@@ -1,4 +1,4 @@
-def::pub this Ti p=[curr] super [[思维工具|λ:/Neural-Networks/元素/思维工具]] unto [[心理学|λ:/Neural-Networks/元素/心理学]] cite [[柳叶刀|λ:/Neural-Networks/元素/柳叶刀]]
+def::pub this Ti p=[curr] supset [[思维工具|λ:/Neural-Networks/元素/思维工具]] unto [[心理学|λ:/Neural-Networks/元素/心理学]] cite [[柳叶刀|λ:/Neural-Networks/元素/柳叶刀]]
 
 > ==须以：知与行对等为目标==，知道的（学）多而行，身心有印象的少就容易焦虑，轻浮。==学而不思则罔，思而不学则殆==（迷惑而无所得，精神疲倦而无所得）
 > 学以致用、用以促学、学用相长。

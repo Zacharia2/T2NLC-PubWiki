@@ -1,4 +1,4 @@
-def::pub this Ti p=[curr] super [[语言|λ:/Neural-Networks/元素/语言]]，[[数学|λ:/Neural-Networks/元素/数学]]，[[思维工具|λ:/Neural-Networks/元素/思维工具]]
+def::pub this Ti p=[curr] supset [[语言|λ:/Neural-Networks/元素/语言]]，[[数学|λ:/Neural-Networks/元素/数学]]，[[思维工具|λ:/Neural-Networks/元素/思维工具]]
 
 
 # 指向性 

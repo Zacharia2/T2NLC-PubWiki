@@ -1,4 +1,4 @@
-def::pub this Ti super [[IANDTA|λ:/Neural-Networks/元素/IANDTA]] weak 绝交
+def::pub this Ti supset [[IANDTA|λ:/Neural-Networks/元素/IANDTA]] weak 绝交
 
 # Loss or Fail or Disconnection
 

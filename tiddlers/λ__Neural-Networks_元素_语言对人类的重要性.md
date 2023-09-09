@@ -1,4 +1,4 @@
-def::pub this Ti super [[语言|λ:/Neural-Networks/元素/语言]]
+def::pub this Ti supset [[语言|λ:/Neural-Networks/元素/语言]]
 
 
 语言确实是人类文明的根基，它在人类社会中扮演着至关重要的角色。以下是语言在人类文明中的几个方面的作用：

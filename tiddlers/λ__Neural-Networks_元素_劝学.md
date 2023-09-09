@@ -1,4 +1,4 @@
-def::pub this Ti super [[README|λ:/Neural-Networks/README]]
+def::pub this Ti supset [[README|λ:/Neural-Networks/README]]
 
 
 # 劝学

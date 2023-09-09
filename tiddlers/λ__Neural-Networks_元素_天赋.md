@@ -1,4 +1,4 @@
-def::pub this Ti super [[Hi (Humanity-Itself)|λ:/Neural-Networks/元素/Hi (Humanity-Itself)]]
+def::pub this Ti supset [[Hi (Humanity-Itself)|λ:/Neural-Networks/元素/Hi (Humanity-Itself)]]
 
 
 孙三娘是我羡慕的，她自己没有学问，但她的学问比任何一个读书的都要精明。这种无需学习的内隐知识或者直觉，是我所没有的。

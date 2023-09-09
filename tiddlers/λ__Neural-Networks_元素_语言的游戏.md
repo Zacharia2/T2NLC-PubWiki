@@ -1,1 +1,1 @@
-def::pub this Ti super [[互动|λ:/Neural-Networks/元素/互动]] ，[[语言|λ:/Neural-Networks/元素/语言]]has 调侃，开玩笑，冷笑话和禅宗式幽，夸张和夸张的比喻，用词幽默，讽刺和讽刺性评论，卖萌和装傻，双关语，谜语、拼字
+def::pub this Ti supset [[互动|λ:/Neural-Networks/元素/互动]] ，[[语言|λ:/Neural-Networks/元素/语言]]subset 调侃，开玩笑，冷笑话和禅宗式幽，夸张和夸张的比喻，用词幽默，讽刺和讽刺性评论，卖萌和装傻，双关语，谜语、拼字

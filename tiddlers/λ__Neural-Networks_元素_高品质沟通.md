@@ -1,4 +1,4 @@
-def::pub this Ti super [[IANDTA|λ:/Neural-Networks/元素/IANDTA]]
+def::pub this Ti supset [[IANDTA|λ:/Neural-Networks/元素/IANDTA]]
 
 ##### 第一章 沟通认识
 1. 为什么要高品质沟通

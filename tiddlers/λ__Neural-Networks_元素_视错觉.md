@@ -1,4 +1,4 @@
-def::pub this Ti super [[感觉|λ:/Neural-Networks/元素/感觉]]，[[思维工具|λ:/Neural-Networks/元素/思维工具]]
+def::pub this Ti supset [[感觉|λ:/Neural-Networks/元素/感觉]]，[[思维工具|λ:/Neural-Networks/元素/思维工具]]
 
 > 眼见并不一定为实
 

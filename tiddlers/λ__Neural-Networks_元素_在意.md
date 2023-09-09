@@ -1,4 +1,4 @@
-def::pub this Ti super [[边缘|λ:/Neural-Networks/元素/边缘]] unto [[思维工具|λ:/Neural-Networks/元素/思维工具]]，[[心理学|λ:/Neural-Networks/元素/心理学]]
+def::pub this Ti supset [[边缘|λ:/Neural-Networks/元素/边缘]] unto [[思维工具|λ:/Neural-Networks/元素/思维工具]]，[[心理学|λ:/Neural-Networks/元素/心理学]]
 
 
 # 在意（反义词，）

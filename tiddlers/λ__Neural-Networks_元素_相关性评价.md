@@ -1,4 +1,4 @@
-def::pub this Ti super [[相关与因果|λ:/Neural-Networks/元素/相关与因果]]
+def::pub this Ti supset [[相关与因果|λ:/Neural-Networks/元素/相关与因果]]
 
 相关性，或者说（），，，，事物ab强相关，修改a对b的影响很大，比如火焰温度与食物烹饪。但学历和赚钱工资的相关性较小。学历高并不意味着工资高。
 

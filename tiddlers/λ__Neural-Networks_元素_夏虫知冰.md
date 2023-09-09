@@ -1,4 +1,4 @@
-def::pub this Ti super [[边缘|λ:/Neural-Networks/元素/边缘]]，[[自由与局限|λ:/Neural-Networks/元素/自由与局限]]
+def::pub this Ti supset [[边缘|λ:/Neural-Networks/元素/边缘]]，[[自由与局限|λ:/Neural-Networks/元素/自由与局限]]
 
 
 可观测与不可观测

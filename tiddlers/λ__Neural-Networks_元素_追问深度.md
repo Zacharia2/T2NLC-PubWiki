@@ -1,4 +1,4 @@
-def::pub this super [[度规与尺深|λ:/Neural-Networks/元素/度规与尺深]]
+def::pub this supset [[度规与尺深|λ:/Neural-Networks/元素/度规与尺深]]
 
 
 # 追问深度 ，刨根问底

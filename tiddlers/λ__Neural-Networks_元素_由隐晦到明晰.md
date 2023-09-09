@@ -1,2 +1,2 @@
-def::pub this Ti super [[思维工具|λ:/Neural-Networks/元素/思维工具]]
+def::pub this Ti supset [[思维工具|λ:/Neural-Networks/元素/思维工具]]
 

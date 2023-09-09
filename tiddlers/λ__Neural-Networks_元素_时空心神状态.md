@@ -1,4 +1,4 @@
-def::pub this Ti super [[思维工具|λ:/Neural-Networks/元素/思维工具]]，[[反射|λ:/Neural-Networks/元素/反射]] cite [[个体心理学和整体论|λ:/Neural-Networks/元素/个体心理学和整体论]]，[[镜像简化和抽象分析|λ:/Neural-Networks/元素/镜像简化和抽象分析]] has [[自主独立与自我秩序|λ:/Neural-Networks/元素/自主独立与自我秩序]]
+def::pub this Ti supset [[思维工具|λ:/Neural-Networks/元素/思维工具]]，[[反射|λ:/Neural-Networks/元素/反射]] cite [[个体心理学和整体论|λ:/Neural-Networks/元素/个体心理学和整体论]]，[[镜像简化和抽象分析|λ:/Neural-Networks/元素/镜像简化和抽象分析]] subset [[自主独立与自我秩序|λ:/Neural-Networks/元素/自主独立与自我秩序]]
 
 
 [img [飞跃天空之城.png]]

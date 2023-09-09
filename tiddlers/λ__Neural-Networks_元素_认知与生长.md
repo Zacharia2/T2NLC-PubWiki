@@ -1,4 +1,4 @@
-def::pub this Ti super [[知识|λ:/Neural-Networks/元素/知识]]
+def::pub this Ti supset [[知识|λ:/Neural-Networks/元素/知识]]
 
 
 # 知识的认知与生长

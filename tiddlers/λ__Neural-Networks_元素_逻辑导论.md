@@ -1,4 +1,4 @@
-def::pub this Ti super [[逻辑学|λ:/Neural-Networks/元素/逻辑学]]
+def::pub this Ti supset [[逻辑学|λ:/Neural-Networks/元素/逻辑学]]
 
 
 #### 第一章 绪论

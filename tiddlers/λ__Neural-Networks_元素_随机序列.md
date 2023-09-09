@@ -1,4 +1,4 @@
-def::pub this Ti super [[数学思维|λ:/Neural-Networks/元素/数学思维]]
+def::pub this Ti supset [[数学思维|λ:/Neural-Networks/元素/数学思维]]
 
 
 # 随机序列

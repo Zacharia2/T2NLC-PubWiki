@@ -1,4 +1,4 @@
-def::pub this Ti super [[经济学|λ:/Neural-Networks/元素/经济学]]，[[IANDTA|λ:/Neural-Networks/元素/IANDTA]]
+def::pub this Ti supset [[经济学|λ:/Neural-Networks/元素/经济学]]，[[IANDTA|λ:/Neural-Networks/元素/IANDTA]]
 
 
 > 在哲学、伦理学和社会科学等领域，价值指的是人们对于事物的重要性、意义、好坏等方面的[[主观评价|λ:/Neural-Networks/元素/主观评价]]。它是人类社会活动和行为的基础，反映了个体和社会对于事物的认知、信仰和追求。

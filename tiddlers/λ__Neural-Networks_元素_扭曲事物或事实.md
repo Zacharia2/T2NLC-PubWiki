@@ -1,4 +1,4 @@
-def::pub this Ti super [[自由与局限|λ:/Neural-Networks/元素/自由与局限]]，[[思维工具|λ:/Neural-Networks/元素/思维工具]]
+def::pub this Ti supset [[自由与局限|λ:/Neural-Networks/元素/自由与局限]]，[[思维工具|λ:/Neural-Networks/元素/思维工具]]
 
 
 这世界上的任意事物，不依赖语言而存在，你是否尽了最大可能用语言还原事物的原貌？

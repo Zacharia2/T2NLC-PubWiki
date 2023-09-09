@@ -1,4 +1,4 @@
-def::pub this Ti super [[Hi (Humanity-Itself)|λ:/Neural-Networks/元素/Hi (Humanity-Itself)]] cite [[价值|λ:/Neural-Networks/元素/价值]]，[[价值观|λ:/Neural-Networks/元素/价值观]]
+def::pub this Ti supset [[Hi (Humanity-Itself)|λ:/Neural-Networks/元素/Hi (Humanity-Itself)]] cite [[价值|λ:/Neural-Networks/元素/价值]]，[[价值观|λ:/Neural-Networks/元素/价值观]]
 
 
 价值指重要性、感觉量化；

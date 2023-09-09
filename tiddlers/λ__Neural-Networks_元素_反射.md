@@ -1,4 +1,4 @@
-def::pub this Ti super [[Hi (Humanity-Itself)|λ:/Neural-Networks/元素/Hi (Humanity-Itself)]]，[[自由与局限|λ:/Neural-Networks/元素/自由与局限]]
+def::pub this Ti supset [[Hi (Humanity-Itself)|λ:/Neural-Networks/元素/Hi (Humanity-Itself)]]，[[自由与局限|λ:/Neural-Networks/元素/自由与局限]]
 
 
 # 反射

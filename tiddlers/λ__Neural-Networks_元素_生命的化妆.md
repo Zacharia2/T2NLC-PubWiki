@@ -1,4 +1,4 @@
-def::pub type:@ this Ti super [[生命的意义|λ:/Neural-Networks/元素/生命的意义]]
+def::pub type:@ this Ti supset [[生命的意义|λ:/Neural-Networks/元素/生命的意义]]
 
 # 生命的意义@生命的化妆
 

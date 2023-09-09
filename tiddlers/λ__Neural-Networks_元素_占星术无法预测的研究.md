@@ -1,4 +1,4 @@
-def::pub type:@ this Ti super [[科学|λ:/Neural-Networks/元素/科学]]
+def::pub type:@ this Ti supset [[科学|λ:/Neural-Networks/元素/科学]]
 
 
 > 翻译的原则：由个人理解附会，原文在下方。

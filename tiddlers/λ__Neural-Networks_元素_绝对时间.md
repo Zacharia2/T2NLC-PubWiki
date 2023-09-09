@@ -1,4 +1,4 @@
-def::pub this Ti p=[curr] super [[思维工具|λ:/Neural-Networks/元素/思维工具]] weak [[度规与尺深|λ:/Neural-Networks/元素/度规与尺深]]
+def::pub this Ti p=[curr] supset [[思维工具|λ:/Neural-Networks/元素/思维工具]] weak [[度规与尺深|λ:/Neural-Networks/元素/度规与尺深]]
 
 # 绝对时间
 

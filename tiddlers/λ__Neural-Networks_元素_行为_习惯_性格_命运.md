@@ -1,4 +1,4 @@
-def::pub this super [[Hi (Humanity-Itself)|λ:/Neural-Networks/元素/Hi (Humanity-Itself)]]
+def::pub this supset [[Hi (Humanity-Itself)|λ:/Neural-Networks/元素/Hi (Humanity-Itself)]]
 
 性格决定命运。
 

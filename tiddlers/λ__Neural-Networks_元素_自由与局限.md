@@ -1,4 +1,4 @@
-def::pub this Ti p=[curr] super [[真实|λ:/Neural-Networks/元素/真实]]，cite [[科学|λ:/Neural-Networks/元素/科学]]、[[绝对时间|λ:/Neural-Networks/元素/绝对时间]]、[[Eve|λ:/Neural-Networks/元素/Eve]]
+def::pub this Ti p=[curr] supset [[真实|λ:/Neural-Networks/元素/真实]]，cite [[科学|λ:/Neural-Networks/元素/科学]]、[[绝对时间|λ:/Neural-Networks/元素/绝对时间]]、[[Eve|λ:/Neural-Networks/元素/Eve]]
 
 
 # 自由与局限

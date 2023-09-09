@@ -1,4 +1,4 @@
-def::pub this Ti super [[序|λ:/Neural-Networks/元素/序]]
+def::pub this Ti supset [[序|λ:/Neural-Networks/元素/序]]
 
 
 # 智慧与道德

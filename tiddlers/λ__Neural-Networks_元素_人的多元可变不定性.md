@@ -1,4 +1,4 @@
-def::pub type:@ this Ti super [[自由与局限|λ:/Neural-Networks/元素/自由与局限]] unto [[个体心理学和整体论|λ:/Neural-Networks/元素/个体心理学和整体论]]
+def::pub type:@ this Ti supset [[自由与局限|λ:/Neural-Networks/元素/自由与局限]] unto [[个体心理学和整体论|λ:/Neural-Networks/元素/个体心理学和整体论]]
 
 
 > 不要给自己贴标签，不要试图给他人贴标签。所有的一切都会慢慢改变。人们是会有些倾向，但是这个倾向会慢慢变好。

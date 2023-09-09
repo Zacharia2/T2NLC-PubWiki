@@ -1,4 +1,4 @@
-def::pub this Ti super [[思维工具|λ:/Neural-Networks/元素/思维工具]]，[[哲学|λ:/Neural-Networks/元素/哲学]]，has [[语言|λ:/Neural-Networks/元素/语言]]
+def::pub this Ti supset [[思维工具|λ:/Neural-Networks/元素/思维工具]]，[[哲学|λ:/Neural-Networks/元素/哲学]]，subset [[语言|λ:/Neural-Networks/元素/语言]]
 
 语言对应到现实，现实中做和不做？
 

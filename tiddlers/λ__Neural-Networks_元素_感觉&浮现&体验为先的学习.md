@@ -1,4 +1,4 @@
-def::pub this Ti super [[思维工具|λ:/Neural-Networks/元素/思维工具]]
+def::pub this Ti supset [[思维工具|λ:/Neural-Networks/元素/思维工具]]
 
 ## 凭感觉学习
 先用感性能力帮助自己选择，再用理性能力帮助自己思考。

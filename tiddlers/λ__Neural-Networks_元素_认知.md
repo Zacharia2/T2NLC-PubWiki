@@ -1,4 +1,4 @@
-def::pub this Ti super [[心理学|λ:/Neural-Networks/元素/心理学]]，[[个体心理学和整体论|λ:/Neural-Networks/元素/个体心理学和整体论]]，[[认知科学|λ:/Neural-Networks/元素/认知科学]]
+def::pub this Ti supset [[心理学|λ:/Neural-Networks/元素/心理学]]，[[个体心理学和整体论|λ:/Neural-Networks/元素/个体心理学和整体论]]，[[认知科学|λ:/Neural-Networks/元素/认知科学]]
 
 # 认知
 

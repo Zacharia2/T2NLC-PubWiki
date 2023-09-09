@@ -1,1 +1,1 @@
-def::pub this Ti p=[curr] super [[思维工具|λ:/Neural-Networks/元素/思维工具]] has [[自由与局限|λ:/Neural-Networks/元素/自由与局限]]
+def::pub this Ti p=[curr] supset [[思维工具|λ:/Neural-Networks/元素/思维工具]] subset [[自由与局限|λ:/Neural-Networks/元素/自由与局限]]

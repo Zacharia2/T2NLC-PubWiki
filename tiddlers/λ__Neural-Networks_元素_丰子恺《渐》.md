@@ -1,4 +1,4 @@
-def::pub this Ti super [[绝对时间|λ:/Neural-Networks/元素/绝对时间]]，[[文学]]
+def::pub this Ti supset [[绝对时间|λ:/Neural-Networks/元素/绝对时间]]，[[文学]]
 
 
 

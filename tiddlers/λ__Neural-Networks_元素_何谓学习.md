@@ -1,5 +1,5 @@
 
-def::pub this Ti super [[心理学|λ:/Neural-Networks/元素/心理学]] unto [[学习观]]
+def::pub this Ti supset [[心理学|λ:/Neural-Networks/元素/心理学]] unto [[学习观]]
 
 
 **学习**：人们由经验产生的知识或行为，产生相对永久的改变。（卖油翁的例子：通过练习产生了相对永久的改变。熟能生巧）

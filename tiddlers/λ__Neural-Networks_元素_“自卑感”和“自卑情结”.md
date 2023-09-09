@@ -1,4 +1,4 @@
-def::pub this Ti super [[心理学|λ:/Neural-Networks/元素/心理学]]
+def::pub this Ti supset [[心理学|λ:/Neural-Networks/元素/心理学]]
 
 
 自卑感是你虽然因为某件事物而感到自卑，但你也会因此努力从而进步

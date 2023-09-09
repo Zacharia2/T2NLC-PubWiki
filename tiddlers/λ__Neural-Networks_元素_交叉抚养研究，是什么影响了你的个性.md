@@ -1,4 +1,4 @@
-def::pub type:@ this Ti super [[情|λ:/Neural-Networks/元素/情]]
+def::pub type:@ this Ti supset [[情|λ:/Neural-Networks/元素/情]]
 
 
 

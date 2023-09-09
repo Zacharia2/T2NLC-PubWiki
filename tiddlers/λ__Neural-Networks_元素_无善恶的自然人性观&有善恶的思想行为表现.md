@@ -1,4 +1,4 @@
-def::pub this Ti super [[Hi (Humanity-Itself)|λ:/Neural-Networks/元素/Hi (Humanity-Itself)]] cite 具象化#[[具象化、形象化和抽象化|λ:/Neural-Networks/元素/具象化、形象化和抽象化]] 由相同降落到不同 weak [[哲学是空白、“无用之用”、是教人如何成为圣人|λ:/Neural-Networks/元素/哲学是空白、“无用之用”、是教人如何成为圣人]]
+def::pub this Ti supset [[Hi (Humanity-Itself)|λ:/Neural-Networks/元素/Hi (Humanity-Itself)]] cite 具象化#[[具象化、形象化和抽象化|λ:/Neural-Networks/元素/具象化、形象化和抽象化]] 由相同降落到不同 weak [[哲学是空白、“无用之用”、是教人如何成为圣人|λ:/Neural-Networks/元素/哲学是空白、“无用之用”、是教人如何成为圣人]]
 
 
 ## 无善恶的自然人性观&有善恶的思想行为表现

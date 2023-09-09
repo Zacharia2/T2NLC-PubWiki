@@ -1,1 +1,1 @@
-def::pub this Ti super [[任务序列|λ:/Neural-Networks/元素/任务序列]]
+def::pub this Ti supset [[任务序列|λ:/Neural-Networks/元素/任务序列]]

@@ -1,4 +1,4 @@
-def::pub this Ti super [[IANDTA|λ:/Neural-Networks/元素/IANDTA]]
+def::pub this Ti supset [[IANDTA|λ:/Neural-Networks/元素/IANDTA]]
 
 以利相交，利尽则散；以势相交，势败则倾；以权相交，权失则弃；以情相交，情断则伤；**唯以心相交，方能成其久远。**
 

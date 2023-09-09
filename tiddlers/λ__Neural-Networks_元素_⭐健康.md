@@ -1,4 +1,4 @@
-def::pub this Ti super [[Kernel|λ:/Neural-Networks/元素/Kernel]]
+def::pub this Ti supset [[Kernel|λ:/Neural-Networks/元素/Kernel]]
 
 
 # ⭐健康

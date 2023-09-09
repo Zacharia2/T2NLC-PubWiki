@@ -1,4 +1,4 @@
-def::pub this Ti super [[科学|λ:/Neural-Networks/元素/科学]]
+def::pub this Ti supset [[科学|λ:/Neural-Networks/元素/科学]]
 
 
 > 数学只是语言，B站，up

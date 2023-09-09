@@ -1,4 +1,4 @@
-def::pub this Ti super [[心理学|λ:/Neural-Networks/元素/心理学]]
+def::pub this Ti supset [[心理学|λ:/Neural-Networks/元素/心理学]]
 
 视觉：初见某人，翩苦惊鸿、婉若游龙，或者是獐头鼠目，大腹便便。见久之后，都会变成其貌不扬，平平无奇。
 

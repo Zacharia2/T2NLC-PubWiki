@@ -1,4 +1,4 @@
-def::pub this Ti super [[绝对时间|λ:/Neural-Networks/元素/绝对时间]] has [[任务事件线（把时间当做朋友）|λ:/Neural-Networks/元素/任务事件线（把时间当做朋友）]]
+def::pub this Ti supset [[绝对时间|λ:/Neural-Networks/元素/绝对时间]] subset [[任务事件线（把时间当做朋友）|λ:/Neural-Networks/元素/任务事件线（把时间当做朋友）]]
 
 
 如果你总是要做的事情很多，那很有可能一事无成。

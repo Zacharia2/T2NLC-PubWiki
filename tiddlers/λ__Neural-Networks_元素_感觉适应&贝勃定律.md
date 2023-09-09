@@ -1,4 +1,4 @@
-def::pub this Ti super [[心理学|λ:/Neural-Networks/元素/心理学]]
+def::pub this Ti supset [[心理学|λ:/Neural-Networks/元素/心理学]]
 
 
 感觉适应(sensory adaptation)是指感觉系统对持续的刺激输入反应逐渐减小的现象。例如，你可能没有注意到，在户外待一段时间后，太阳光看起来就不那么耀眼了。

@@ -1,4 +1,4 @@
-def::pub this Ti super [[心理学|λ:/Neural-Networks/元素/心理学]]
+def::pub this Ti supset [[心理学|λ:/Neural-Networks/元素/心理学]]
 
 
 # 价值观（Personal Value）

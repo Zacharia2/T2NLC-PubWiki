@@ -1,4 +1,4 @@
-def::pub this Ti super [[心理学|λ:/Neural-Networks/元素/心理学]] cite [[判别式|λ:/Neural-Networks/元素/判别式]]
+def::pub this Ti supset [[心理学|λ:/Neural-Networks/元素/心理学]] cite [[判别式|λ:/Neural-Networks/元素/判别式]]
 
 ## overthinking 过度思考
 

@@ -1,4 +1,4 @@
-def::pub this Ti has [[逻辑导论|λ:/Neural-Networks/元素/逻辑导论]]，[[辩证逻辑|λ:/Neural-Networks/元素/辩证逻辑]]，[[形式逻辑|λ:/Neural-Networks/元素/形式逻辑]]
+def::pub this Ti subset [[逻辑导论|λ:/Neural-Networks/元素/逻辑导论]]，[[辩证逻辑|λ:/Neural-Networks/元素/辩证逻辑]]，[[形式逻辑|λ:/Neural-Networks/元素/形式逻辑]]
 
 相似文章：[逻辑学笔记 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/386947588)
 

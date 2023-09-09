@@ -1,4 +1,4 @@
-def::pub this Ti super [[IANDTA|λ:/Neural-Networks/元素/IANDTA]]
+def::pub this Ti supset [[IANDTA|λ:/Neural-Networks/元素/IANDTA]]
 
 其实我们每个人都有被嘲笑的经历吧。有，有。
 

@@ -1,4 +1,4 @@
-def::pub this Ti super [[IANDTA|λ:/Neural-Networks/元素/IANDTA]]
+def::pub this Ti supset [[IANDTA|λ:/Neural-Networks/元素/IANDTA]]
 
 人际关系是指人与人之间的相互作用、联系和影响。这种作用可以包括情感、社会、经济等方面，通常是在社会互动中发展的。
 

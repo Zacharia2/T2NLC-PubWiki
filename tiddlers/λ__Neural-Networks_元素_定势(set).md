@@ -1,4 +1,4 @@
-def::pub this Ti super [[心理学|λ:/Neural-Networks/元素/心理学]] weak [[IANDTA|λ:/Neural-Networks/元素/IANDTA]]
+def::pub this Ti supset [[心理学|λ:/Neural-Networks/元素/心理学]] weak [[IANDTA|λ:/Neural-Networks/元素/IANDTA]]
 
 研究者经常通过研究定势来证明情境和期望对知觉（和反应）的影响。 
 定势(set)是一种暂时的准备状态，使你以某种特定的方式对某刺激进行知 觉或反应。

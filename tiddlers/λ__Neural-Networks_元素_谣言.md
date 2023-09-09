@@ -1,4 +1,4 @@
-def::pub this Ti super [[自由与局限|λ:/Neural-Networks/元素/自由与局限]]
+def::pub this Ti supset [[自由与局限|λ:/Neural-Networks/元素/自由与局限]]
 
 
 固执心或者其它名称，

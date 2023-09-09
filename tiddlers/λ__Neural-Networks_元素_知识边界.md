@@ -1,4 +1,4 @@
-def::pub this Ti p=[curr] super [[自由与局限|λ:/Neural-Networks/元素/自由与局限]] as [[知识渐构|λ:/Neural-Networks/元素/知识渐构]]
+def::pub this Ti p=[curr] supset [[自由与局限|λ:/Neural-Networks/元素/自由与局限]] as [[知识渐构|λ:/Neural-Networks/元素/知识渐构]]
 
 
 # 知识边界

@@ -1,4 +1,4 @@
-def::pub this Ti super [[IANDTA|λ:/Neural-Networks/元素/IANDTA]]
+def::pub this Ti supset [[IANDTA|λ:/Neural-Networks/元素/IANDTA]]
 
 物理上的与精神上的碰撞、摩擦、起火
 

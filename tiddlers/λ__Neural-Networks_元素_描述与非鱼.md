@@ -1,4 +1,4 @@
-def::pub this Ti super [[名域与实域|λ:/Neural-Networks/元素/名域与实域]]
+def::pub this Ti supset [[名域与实域|λ:/Neural-Networks/元素/名域与实域]]
 
 # 非鱼
 

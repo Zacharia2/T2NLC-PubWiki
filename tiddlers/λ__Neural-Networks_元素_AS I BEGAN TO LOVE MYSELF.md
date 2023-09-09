@@ -1,4 +1,4 @@
-def::pub this Ti super [[自爱|λ:/Neural-Networks/元素/自爱]]
+def::pub this Ti supset [[自爱|λ:/Neural-Networks/元素/自爱]]
 
 
 # AS I BEGAN TO LOVE MYSELF

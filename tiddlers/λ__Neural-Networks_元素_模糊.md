@@ -1,4 +1,4 @@
-def::pub this Ti super [[思维工具|λ:/Neural-Networks/元素/思维工具]]，[[混沌理论]]，[[量子混沌]] weak [[空白|λ:/Neural-Networks/元素/空白]]
+def::pub this Ti supset [[思维工具|λ:/Neural-Networks/元素/思维工具]]，[[混沌理论]]，[[量子混沌]] weak [[空白|λ:/Neural-Networks/元素/空白]]
 
 混沌理论：https://mp.weixin.qq.com/s/iVHXsXYv5rD7wjyLKpIGrw
 

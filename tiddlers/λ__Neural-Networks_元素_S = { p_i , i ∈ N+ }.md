@@ -1,4 +1,4 @@
-def::pub this super [[社会学]] has [[环境对个体的约束力|λ:/Neural-Networks/元素/环境对个体的约束力]]
+def::pub this supset [[社会学]] subset [[环境对个体的约束力|λ:/Neural-Networks/元素/环境对个体的约束力]]
 
 
 $$

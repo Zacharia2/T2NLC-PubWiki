@@ -1,4 +1,4 @@
-def::pub this Ti super [[注意力|λ:/Neural-Networks/元素/注意力]]，[[有限性|λ:/Neural-Networks/元素/有限性]]，[[认知科学|λ:/Neural-Networks/元素/认知科学]]
+def::pub this Ti supset [[注意力|λ:/Neural-Networks/元素/注意力]]，[[有限性|λ:/Neural-Networks/元素/有限性]]，[[认知科学|λ:/Neural-Networks/元素/认知科学]]
 
 # 注意力
 

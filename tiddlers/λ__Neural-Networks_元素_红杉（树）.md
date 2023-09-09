@@ -1,4 +1,4 @@
-def::pub this Ti super [[思维工具|λ:/Neural-Networks/元素/思维工具]]，[[内省或诉诸求己|λ:/Neural-Networks/元素/内省或诉诸求己]]
+def::pub this Ti supset [[思维工具|λ:/Neural-Networks/元素/思维工具]]，[[内省或诉诸求己|λ:/Neural-Networks/元素/内省或诉诸求己]]
 
 
 # 红杉（树）

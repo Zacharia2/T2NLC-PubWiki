@@ -1,4 +1,4 @@
-def::pub this Ti super [[个体心理学和整体论|λ:/Neural-Networks/元素/个体心理学和整体论]]
+def::pub this Ti supset [[个体心理学和整体论|λ:/Neural-Networks/元素/个体心理学和整体论]]
 
 
 > 记忆、意识、念头、思想、哲学

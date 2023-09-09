@@ -1,4 +1,4 @@
-def::pub this Ti has [[思维方式|λ:/Neural-Networks/元素/思维方式]]，[[类比思维|λ:/Neural-Networks/元素/类比思维]]，[[知性与知性思维|λ:/Neural-Networks/元素/知性与知性思维]]
+def::pub this Ti subset [[思维方式|λ:/Neural-Networks/元素/思维方式]]，[[类比思维|λ:/Neural-Networks/元素/类比思维]]，[[知性与知性思维|λ:/Neural-Networks/元素/知性与知性思维]]
 
 
 **思维**：就是对信息的交换、加工和理解的过程。（心理学家联想到算命等）

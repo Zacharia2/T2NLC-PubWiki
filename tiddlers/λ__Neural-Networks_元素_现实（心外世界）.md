@@ -1,4 +1,4 @@
-def::pub this Ti super [[思维工具|λ:/Neural-Networks/元素/思维工具]] cite [[绝对时间|λ:/Neural-Networks/元素/绝对时间]]
+def::pub this Ti supset [[思维工具|λ:/Neural-Networks/元素/思维工具]] cite [[绝对时间|λ:/Neural-Networks/元素/绝对时间]]
 
 
 # 现实知觉

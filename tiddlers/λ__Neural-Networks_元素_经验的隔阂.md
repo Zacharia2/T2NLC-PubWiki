@@ -1,4 +1,4 @@
-def::pub this Ti super [[思维|λ:/Neural-Networks/元素/思维]]
+def::pub this Ti supset [[思维|λ:/Neural-Networks/元素/思维]]
 
 # 思维的唯一与自主性
 

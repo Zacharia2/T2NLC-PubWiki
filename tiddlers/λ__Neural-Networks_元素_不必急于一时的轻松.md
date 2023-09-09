@@ -1,4 +1,4 @@
-def::pub this Ti or [[弹性|λ:/Neural-Networks/元素/弹性]] super [[思维工具|λ:/Neural-Networks/元素/思维工具]]
+def::pub this Ti or [[弹性|λ:/Neural-Networks/元素/弹性]] supset [[思维工具|λ:/Neural-Networks/元素/思维工具]]
 
 感兴趣且想要的东西、无法解决的事情，不急于一时，不必立刻非要从头到尾一直做完，马上就要。可以搁置、可以不做、可以延期、可以不要。可以像养花一样隔三差五的看看，浇浇水。
 

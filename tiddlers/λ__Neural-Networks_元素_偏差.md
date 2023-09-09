@@ -1,4 +1,4 @@
-def::pub this Ti super [[Eve|λ:/Neural-Networks/元素/Eve]]
+def::pub this Ti supset [[Eve|λ:/Neural-Networks/元素/Eve]]
 
 
 # 偏差

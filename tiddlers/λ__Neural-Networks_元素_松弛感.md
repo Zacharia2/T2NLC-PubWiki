@@ -1,4 +1,4 @@
-def::pub this Ti super [[IANDTA|λ:/Neural-Networks/元素/IANDTA]]
+def::pub this Ti supset [[IANDTA|λ:/Neural-Networks/元素/IANDTA]]
 
 尽管每个人都是个体，而且还有各种情况的存在，不过不要担心，只需要粗线条（粗放扩大不凝结）就可以相安无事，即保持距离，实在不行就在放远点距离，再不行就再远。
 

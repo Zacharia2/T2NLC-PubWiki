@@ -1,4 +1,4 @@
-def::pub this Ti super [[IANDTA|λ:/Neural-Networks/元素/IANDTA]] approx [[三番五次|λ:/Neural-Networks/元素/三番五次]]
+def::pub this Ti supset [[IANDTA|λ:/Neural-Networks/元素/IANDTA]] approx [[三番五次|λ:/Neural-Networks/元素/三番五次]]
 
 
 # “到此为止”的智慧

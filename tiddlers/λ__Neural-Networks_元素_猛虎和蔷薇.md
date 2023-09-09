@@ -1,4 +1,4 @@
-def::pub type:@ this Ti super [[一阴一阳之谓道|λ:/Neural-Networks/元素/一阴一阳之谓道]]
+def::pub type:@ this Ti supset [[一阴一阳之谓道|λ:/Neural-Networks/元素/一阴一阳之谓道]]
 
 
 # 一阴一阳之谓道@猛虎和蔷薇

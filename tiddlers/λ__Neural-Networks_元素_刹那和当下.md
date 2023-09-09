@@ -1,4 +1,4 @@
-def::pub this Ti super [[绝对时间|λ:/Neural-Networks/元素/绝对时间]] weak [[静|λ:/Neural-Networks/元素/静]] unto [[思维工具|λ:/Neural-Networks/元素/思维工具]]
+def::pub this Ti supset [[绝对时间|λ:/Neural-Networks/元素/绝对时间]] weak [[静|λ:/Neural-Networks/元素/静]] unto [[思维工具|λ:/Neural-Networks/元素/思维工具]]
 
 
 # 当下

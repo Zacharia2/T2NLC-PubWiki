@@ -1,4 +1,4 @@
-def::pub this Ti super [[⭐健康|λ:/Neural-Networks/元素/⭐健康]] weak [[经济或者电池🔋问题|λ:/Neural-Networks/元素/经济或者电池🔋问题]]
+def::pub this Ti supset [[⭐健康|λ:/Neural-Networks/元素/⭐健康]] weak [[经济或者电池🔋问题|λ:/Neural-Networks/元素/经济或者电池🔋问题]]
 
 
 

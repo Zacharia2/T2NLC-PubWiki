@@ -1,4 +1,4 @@
-def::pub this super [[心理学|λ:/Neural-Networks/元素/心理学]]
+def::pub this supset [[心理学|λ:/Neural-Networks/元素/心理学]]
 
 王崇巍 的主题
 2023/7/20 07：54

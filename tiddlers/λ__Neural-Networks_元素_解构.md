@@ -1,4 +1,4 @@
-def::pub this Ti super [[度规与尺深|λ:/Neural-Networks/元素/度规与尺深]]，[[Eve|λ:/Neural-Networks/元素/Eve]]，[[认知科学|λ:/Neural-Networks/元素/认知科学]]，[[思维工具|λ:/Neural-Networks/元素/思维工具]]
+def::pub this Ti supset [[度规与尺深|λ:/Neural-Networks/元素/度规与尺深]]，[[Eve|λ:/Neural-Networks/元素/Eve]]，[[认知科学|λ:/Neural-Networks/元素/认知科学]]，[[思维工具|λ:/Neural-Networks/元素/思维工具]]
 
 # 解构
 

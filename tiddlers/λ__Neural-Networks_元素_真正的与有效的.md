@@ -1,4 +1,4 @@
-def::pub this Ti super [[自由与局限|λ:/Neural-Networks/元素/自由与局限]] weak [[度规与尺深|λ:/Neural-Networks/元素/度规与尺深]]、[[模型|λ:/Neural-Networks/元素/模型]]
+def::pub this Ti supset [[自由与局限|λ:/Neural-Networks/元素/自由与局限]] weak [[度规与尺深|λ:/Neural-Networks/元素/度规与尺深]]、[[模型|λ:/Neural-Networks/元素/模型]]
 
 
 # 真正的与有效的

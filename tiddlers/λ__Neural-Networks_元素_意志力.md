@@ -1,4 +1,4 @@
-def::pub this Ti has [[自制力|λ:/Neural-Networks/元素/自制力]]、[[专注力|λ:/Neural-Networks/元素/专注力]]
+def::pub this Ti subset [[自制力|λ:/Neural-Networks/元素/自制力]]、[[专注力|λ:/Neural-Networks/元素/专注力]]
 
 
 # 意志力

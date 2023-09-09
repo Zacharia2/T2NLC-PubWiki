@@ -1,4 +1,4 @@
-def::pub this Ti super [[知识筛选|λ:/Neural-Networks/元素/知识筛选]]
+def::pub this Ti supset [[知识筛选|λ:/Neural-Networks/元素/知识筛选]]
 
 
 对信息源或知识进行筛选，，，高质量留下。

@@ -1,8 +1,7 @@
-def::pub this Ti super [[自爱|λ:/Neural-Networks/元素/自爱]]，[[IANDTA|λ:/Neural-Networks/元素/IANDTA]]
+def::pub this Ti supset [[自爱|λ:/Neural-Networks/元素/自爱]] unto [[IANDTA|λ:/Neural-Networks/元素/IANDTA]]
 
 
 ## 自主与无伤
-def::pub this Ti super [[IANDTA|λ:/Neural-Networks/元素/IANDTA]]
 
 
 > 他者伤己，谓之恶。Sister：不伤害他人，不让他人伤害自己。

@@ -1,4 +1,4 @@
-def::pub this Ti super [[现实（心外世界）|λ:/Neural-Networks/元素/现实（心外世界）]]
+def::pub this Ti supset [[现实（心外世界）|λ:/Neural-Networks/元素/现实（心外世界）]]
 
 
 # 现实意义

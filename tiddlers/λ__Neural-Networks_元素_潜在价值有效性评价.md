@@ -1,4 +1,4 @@
-def::pub this Ti super [[有效性|λ:/Neural-Networks/元素/有效性]]
+def::pub this Ti supset [[有效性|λ:/Neural-Networks/元素/有效性]]
 
 潜在价值是否可变现？总得来说，是否可变现是此元素的核心内容。
 

@@ -1,4 +1,4 @@
-def::pub this Ti as [[选择透过性|λ:/Neural-Networks/元素/选择透过性]] super [[细胞膜|λ:/Neural-Networks/元素/细胞膜]]
+def::pub this Ti as [[选择透过性|λ:/Neural-Networks/元素/选择透过性]] supset [[细胞膜|λ:/Neural-Networks/元素/细胞膜]]
 
 
 # 细胞?雏菊

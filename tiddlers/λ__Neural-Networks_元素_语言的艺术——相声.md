@@ -1,1 +1,1 @@
-def::pub this Ti super [[语言|λ:/Neural-Networks/元素/语言]]
+def::pub this Ti supset [[语言|λ:/Neural-Networks/元素/语言]]

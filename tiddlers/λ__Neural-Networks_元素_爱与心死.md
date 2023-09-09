@@ -1,4 +1,4 @@
-def::pub this Ti super [[IANDTA|λ:/Neural-Networks/元素/IANDTA]] cite [[自由与局限|λ:/Neural-Networks/元素/自由与局限]]、[[弹性|λ:/Neural-Networks/元素/弹性]]
+def::pub this Ti supset [[IANDTA|λ:/Neural-Networks/元素/IANDTA]] cite [[自由与局限|λ:/Neural-Networks/元素/自由与局限]]、[[弹性|λ:/Neural-Networks/元素/弹性]]
 
 # 爱 愛 Affection LOVE Любовь Liebe Amour Αγάπη
 

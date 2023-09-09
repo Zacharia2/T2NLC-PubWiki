@@ -1,4 +1,4 @@
-def::pub this Ti super [[思维方式|λ:/Neural-Networks/元素/思维方式]]
+def::pub this Ti supset [[思维方式|λ:/Neural-Networks/元素/思维方式]]
 
 
 # 20原则本土版

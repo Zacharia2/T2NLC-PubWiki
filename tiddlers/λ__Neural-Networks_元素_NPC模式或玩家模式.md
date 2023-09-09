@@ -1,1 +1,1 @@
-def::pub this Ti super [[绝对时间|λ:/Neural-Networks/元素/绝对时间]]，[[自主独立与自我秩序|λ:/Neural-Networks/元素/自主独立与自我秩序]]
+def::pub this Ti supset [[绝对时间|λ:/Neural-Networks/元素/绝对时间]]，[[自主独立与自我秩序|λ:/Neural-Networks/元素/自主独立与自我秩序]]

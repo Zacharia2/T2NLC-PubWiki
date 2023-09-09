@@ -1,4 +1,4 @@
-def::pub this Ti super [[自然科学]] unto [[数学|λ:/Neural-Networks/元素/数学]]
+def::pub this Ti supset [[自然科学]] unto [[数学|λ:/Neural-Networks/元素/数学]]
 
 数学中不定积分只能凑一次，这是不变的，无论如何都不会变的。
 

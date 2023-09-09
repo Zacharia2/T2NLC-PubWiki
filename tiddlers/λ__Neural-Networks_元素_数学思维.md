@@ -1,4 +1,4 @@
-def::pub this Ti as [[柳叶刀|λ:/Neural-Networks/元素/柳叶刀]]，[[语言|λ:/Neural-Networks/元素/语言]] super [[思维方式|λ:/Neural-Networks/元素/思维方式]]
+def::pub this Ti as [[柳叶刀|λ:/Neural-Networks/元素/柳叶刀]]，[[语言|λ:/Neural-Networks/元素/语言]] supset [[思维方式|λ:/Neural-Networks/元素/思维方式]]
 
 
 # 数学思维

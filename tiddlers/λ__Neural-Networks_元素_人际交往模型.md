@@ -1,4 +1,4 @@
-def::pub this Ti super [[IANDTA|λ:/Neural-Networks/元素/IANDTA]] unto [[社会学]]
+def::pub this Ti supset [[IANDTA|λ:/Neural-Networks/元素/IANDTA]] unto [[社会学]]
 
 
 

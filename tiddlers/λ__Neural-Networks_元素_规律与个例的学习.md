@@ -1,1 +1,1 @@
-def::pub this super [[感觉&浮现&体验为先的学习|λ:/Neural-Networks/元素/感觉&浮现&体验为先的学习]]
+def::pub this supset [[感觉&浮现&体验为先的学习|λ:/Neural-Networks/元素/感觉&浮现&体验为先的学习]]

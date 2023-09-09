@@ -1,4 +1,4 @@
-def::pub this Ti p=[curr] super [[心理学|λ:/Neural-Networks/元素/心理学]] has [[心神|λ:/Neural-Networks/元素/心神]], [[思维|λ:/Neural-Networks/元素/思维]]，[[意识|λ:/Neural-Networks/元素/意识]]，[[元神与识神|λ:/Neural-Networks/元素/元神与识神]]，[[情|λ:/Neural-Networks/元素/情]]
+def::pub this Ti p=[curr] supset [[心理学|λ:/Neural-Networks/元素/心理学]] subset [[心神|λ:/Neural-Networks/元素/心神]], [[思维|λ:/Neural-Networks/元素/思维]]，[[意识|λ:/Neural-Networks/元素/意识]]，[[元神与识神|λ:/Neural-Networks/元素/元神与识神]]，[[情|λ:/Neural-Networks/元素/情]]
 
 
 # 个体心理学和整体论

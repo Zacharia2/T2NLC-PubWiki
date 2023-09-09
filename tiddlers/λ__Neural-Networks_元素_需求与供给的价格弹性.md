@@ -1,4 +1,4 @@
-def::pub this Ti super [[经济学|λ:/Neural-Networks/元素/经济学]] weak [[IANDTA|λ:/Neural-Networks/元素/IANDTA]]
+def::pub this Ti supset [[经济学|λ:/Neural-Networks/元素/经济学]] weak [[IANDTA|λ:/Neural-Networks/元素/IANDTA]]
 
 
 价值是有弹性的，金子和食物，那个当前对你更有意义。

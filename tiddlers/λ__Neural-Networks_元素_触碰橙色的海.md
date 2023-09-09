@@ -1,4 +1,4 @@
-def::pub this Ti super [[思维工具|λ:/Neural-Networks/元素/思维工具]] cite [[内省或诉诸求己|λ:/Neural-Networks/元素/内省或诉诸求己]]
+def::pub this Ti supset [[思维工具|λ:/Neural-Networks/元素/思维工具]] cite [[内省或诉诸求己|λ:/Neural-Networks/元素/内省或诉诸求己]]
 
 
 > 觉醒，大概就是意识到自己处于某种颜色，观察到自己处于某种环境，环境存在的缺陷，并致力于

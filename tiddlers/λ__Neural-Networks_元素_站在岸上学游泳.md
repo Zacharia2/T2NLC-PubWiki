@@ -1,4 +1,4 @@
-def::pub this super [[知行合一，认知行为理论|λ:/Neural-Networks/元素/知行合一，认知行为理论]]
+def::pub this supset [[知行合一，认知行为理论|λ:/Neural-Networks/元素/知行合一，认知行为理论]]
 
 站在岸上学游泳，光说不练假把势。【试试水】
 

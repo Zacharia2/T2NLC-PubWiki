@@ -1,4 +1,4 @@
-def::pub this Ti p=[curr] super [[思维工具|λ:/Neural-Networks/元素/思维工具]]，[[个体心理学和整体论|λ:/Neural-Networks/元素/个体心理学和整体论]] weak [[想象力|λ:/Neural-Networks/元素/想象力]]
+def::pub this Ti p=[curr] supset [[思维工具|λ:/Neural-Networks/元素/思维工具]]，[[个体心理学和整体论|λ:/Neural-Networks/元素/个体心理学和整体论]] weak [[想象力|λ:/Neural-Networks/元素/想象力]]
 
 
 

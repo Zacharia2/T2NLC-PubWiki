@@ -1,4 +1,4 @@
-def::pub this Ti super [[自爱|λ:/Neural-Networks/元素/自爱]] has [[快乐才有意义|λ:/Neural-Networks/元素/快乐才有意义]]
+def::pub this Ti supset [[自爱|λ:/Neural-Networks/元素/自爱]] subset [[快乐才有意义|λ:/Neural-Networks/元素/快乐才有意义]]
 
 > 生命好在无意义，才容得下各自赋予意义。
 # 生命的意义

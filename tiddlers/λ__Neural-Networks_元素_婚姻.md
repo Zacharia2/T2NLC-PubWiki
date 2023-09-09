@@ -1,4 +1,4 @@
-def::pub this Ti super [[爱情和占有|λ:/Neural-Networks/元素/爱情和占有]]
+def::pub this Ti supset [[爱情和占有|λ:/Neural-Networks/元素/爱情和占有]]
 
 驰不诺呀：我们的关系无法由婚姻来定义，他们不是一个层面的东西。
 

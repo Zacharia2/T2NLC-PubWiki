@@ -1,4 +1,4 @@
-def::pub this Ti p=[curr] super [[思维工具|λ:/Neural-Networks/元素/思维工具]]
+def::pub this Ti p=[curr] supset [[思维工具|λ:/Neural-Networks/元素/思维工具]]
 
 
 > 变命令为选择，变复杂为简单，变确定为不确定，变拯救为包容，变伟业为小事，变沮丧为理解。

@@ -1,4 +1,4 @@
-def::pub this Ti p=[curr] super [[自由与局限|λ:/Neural-Networks/元素/自由与局限]]
+def::pub this Ti p=[curr] supset [[自由与局限|λ:/Neural-Networks/元素/自由与局限]]
 
 观：盲人摸象，坐井观天，微分和断层扫描
 照：照见，阳光

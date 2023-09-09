@@ -1,4 +1,4 @@
-def::pub this Ti super [[IANDTA|λ:/Neural-Networks/元素/IANDTA]]
+def::pub this Ti supset [[IANDTA|λ:/Neural-Networks/元素/IANDTA]]
 
 自私的等效字词有：自利、利己、自我中心、自我为中心、自顾自、只顾自己、不顾他人、以己为先
 

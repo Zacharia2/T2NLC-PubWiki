@@ -1,4 +1,4 @@
-def::pub this Ti super [[IANDTA|λ:/Neural-Networks/元素/IANDTA]]
+def::pub this Ti supset [[IANDTA|λ:/Neural-Networks/元素/IANDTA]]
 
 
 在自然界，对于猫猫来说没有抓到猎物就要饿肚子，对于羚羊来说，被抓到就意味着死亡。这似乎是平等的。
