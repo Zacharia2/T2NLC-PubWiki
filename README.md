@@ -9,6 +9,7 @@ Hi 你好呀，朋友。这是一个实验环境，又或特化的知识图谱�
 - 主页链接：https://zacharia2.github.io/T2NLC-PubWiki/
 - 可离线版本链接：https://zacharia2.github.io/T2NLC-PubWiki/offline.html 
 
+若页面没有更新，可以使用Ctrl + F5强制刷新缓存即可看到最新内容。
 
 ## 协议
 

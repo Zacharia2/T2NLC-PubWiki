@@ -4,6 +4,8 @@ Hi 你好呀，朋友。这是一个实验环境，又或特化的知识图谱�
 
 你可以在侧边栏的VaultTrees中找到所有公开的笔记，每个条目第一行为当前条目的语义空间定义。
 
+若页面没有更新，可以使用Ctrl + F5强制刷新缓存即可看到最新内容。
+
 <p align="right">outlook：whitefall76@outlook.com</p>
 
 <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
