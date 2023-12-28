@@ -1,0 +1,1 @@
+#! (ink pub (T i) (attr (type Topic)) (edge (supset [[知识渐构|λ:/Thought-Thing-NL-Cognition/元素/知识渐构]])))

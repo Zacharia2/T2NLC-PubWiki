@@ -1,1 +1,0 @@
-def::pub this Ti supset [[思维方式|λ:/Neural-Networks/元素/思维方式]]

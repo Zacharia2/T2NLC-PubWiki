@@ -1,5 +1,0 @@
-def::pub this Ti supset [[智力|λ:/Neural-Networks/元素/智力]]
-
-# 想象力
-
-[想象 - 维基百科，自由的百科全书 (wikipedia.org)](https://zh.wikipedia.org/wiki/%E6%83%B3%E8%B1%A1)

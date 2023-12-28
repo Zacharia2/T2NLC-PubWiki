@@ -1,9 +1,0 @@
-def::pub this Ti supset [[IANDTA|λ:/Neural-Networks/元素/IANDTA]]
-
-利益，情感精神信仰，善良，智慧，爱
-
-> 参考马斯洛的模型，利益是基础设施，正如电脑离不开电一样。
-
-
-[img [马斯洛需求层次理论.png]]
-

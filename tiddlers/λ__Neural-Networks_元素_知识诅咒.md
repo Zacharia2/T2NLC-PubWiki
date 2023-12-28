@@ -1,1 +1,0 @@
-def::pub this Ti supset [[知识渐构|λ:/Neural-Networks/元素/知识渐构]]

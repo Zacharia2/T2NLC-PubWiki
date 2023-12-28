@@ -1,0 +1,1 @@
+#! (ink pub (T i) (attr (type Topic)) (edge (supset [[绝对时间|λ:/Thought-Thing-NL-Cognition/元素/绝对时间]] [[自主独立与自我秩序|λ:/Thought-Thing-NL-Cognition/元素/自主独立与自我秩序]])))

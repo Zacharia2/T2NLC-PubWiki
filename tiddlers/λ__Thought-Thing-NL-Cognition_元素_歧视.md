@@ -1,0 +1,1 @@
+#! (ink pub (T i) (attr (type Topic)) (edge (supset [[S = { p_i , i ∈ N+ }|λ:/Thought-Thing-NL-Cognition/元素/S = { p_i , i ∈ N+ }]] )))

@@ -1,1 +1,0 @@
-def::pub this Ti supset [[互动|λ:/Neural-Networks/元素/互动]] weak [[IANDTA|λ:/Neural-Networks/元素/IANDTA]]

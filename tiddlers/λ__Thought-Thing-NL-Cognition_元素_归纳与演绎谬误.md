@@ -1,0 +1,1 @@
+#! (ink pub (T i) (attr (type Topic)) (edge (supset [[逻辑学|λ:/Thought-Thing-NL-Cognition/元素/逻辑学]]) (unto [[自由与局限|λ:/Thought-Thing-NL-Cognition/元素/自由与局限]])))

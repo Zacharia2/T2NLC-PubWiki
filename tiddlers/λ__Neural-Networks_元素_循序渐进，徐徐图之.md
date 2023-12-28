@@ -1,1 +1,0 @@
-def::pub this Ti supset [[IANDTA|λ:/Neural-Networks/元素/IANDTA]] unto [[思维工具|λ:/Neural-Networks/元素/思维工具]]

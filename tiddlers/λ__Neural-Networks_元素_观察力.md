@@ -1,1 +1,0 @@
-def::pub this Ti supset [[智力|λ:/Neural-Networks/元素/智力]]
