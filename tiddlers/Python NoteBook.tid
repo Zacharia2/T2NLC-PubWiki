@@ -1,9 +1,0 @@
-created: 20230615122202198
-creator: WhiteFall
-modified: 20230827102546740
-modifier: WhiteFall
-tags: $:/plugins/linonetwo/itonnote/Sidebar/FolderMenu $:/tags/SideBar
-title: Python NoteBook
-type: text/vnd.tiddlywiki
-
-<$macrocall $name="locator-view" baseTitle="Hi Python" />

@@ -1,9 +1,9 @@
 caption: {{$:/core/images/link}} {{$:/language/Buttons/DraggableHandle/Caption}}
 created: 20230525115642550
-creator: WhiteFall
+creator: 明玥
 description: {{$:/language/Buttons/DraggableHandle/Hint}}
 modified: 20230525115642550
-modifier: WhiteFall
+modifier: 明玥
 tags: $:/tags/ViewToolbar
 title: $:/plugins/kookma/utility/ui/Buttons/DraggableLink
 type: text/vnd.tiddlywiki

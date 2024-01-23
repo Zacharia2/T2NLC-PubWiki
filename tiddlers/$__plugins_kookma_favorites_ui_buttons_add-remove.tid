@@ -1,9 +1,9 @@
 caption: {{$:/plugins/kookma/favorites/images/heart}} {{$:/language/Buttons/Favorites/Caption/Add}}
 created: 20230525115642551
-creator: WhiteFall
+creator: 明玥
 description: {{$:/language/Buttons/Favorites/Hint/Add}}
 modified: 20230525115642551
-modifier: WhiteFall
+modifier: 明玥
 tags: $:/tags/ViewToolbar
 title: $:/plugins/kookma/favorites/ui/buttons/add-remove
 type: text/vnd.tiddlywiki

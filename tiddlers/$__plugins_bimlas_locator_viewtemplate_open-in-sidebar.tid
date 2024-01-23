@@ -1,9 +1,9 @@
 caption: {{$:/core/images/chevron-right}} locator sidebar
 created: 20230525115642552
-creator: WhiteFall
+creator: 明玥
 description: Browse hierarchy of tag in Locator sidebar
 modified: 20230525115642552
-modifier: WhiteFall
+modifier: 明玥
 tags: $:/tags/ViewToolbar
 title: $:/plugins/bimlas/locator/viewtemplate/open-in-sidebar
 type: text/vnd.tiddlywiki

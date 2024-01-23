@@ -1,9 +1,9 @@
 caption: {{$:/plugins/tiddlywiki/qrcode/icon}} QR code
 created: 20230525115642553
-creator: WhiteFall
+creator: 明玥
 description: Generate QR code for this tiddler
 modified: 20230525115642553
-modifier: WhiteFall
+modifier: 明玥
 short-caption: QR code
 tags: $:/tags/ViewToolbar
 title: $:/plugins/tiddlywiki/qrcode/ViewToolbarButton

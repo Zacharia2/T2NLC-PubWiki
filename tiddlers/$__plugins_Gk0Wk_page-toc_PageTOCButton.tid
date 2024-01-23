@@ -1,10 +1,10 @@
 caption: {{$:/core/images/list-bullet}} {{$:/plugins/Gk0Wk/page-toc/PageTOCButton!!hint}}
 created: 20230525115642551
-creator: WhiteFall
+creator: 明玥
 description: Show TOC of this tiddler
 hint: Page TOC
 modified: 20230525115642551
-modifier: WhiteFall
+modifier: 明玥
 tags: $:/tags/ViewToolbar
 title: $:/plugins/Gk0Wk/page-toc/PageTOCButton
 type: text/vnd.tiddlywiki

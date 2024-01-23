@@ -6,7 +6,7 @@ Hi 你好呀，朋友。这是一个实验环境，又或特化的知识图谱�
 
 若页面没有更新，可以使用Ctrl + F5强制刷新缓存即可看到最新内容。
 
-<p align="right">outlook：whitefall76@outlook.com</p>
+<p align="right">outlook：明玥76@outlook.com</p>
 
 <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
 <$image source="https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg" />

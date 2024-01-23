@@ -59,7 +59,7 @@
 
 ————— 2023-03-05 —————
 
-WhiteFall 10:20
+明玥 10:20
 
 其中，感性和理性有什么区别吗
 
@@ -67,7 +67,7 @@ WhiteFall 10:20
 
 你的听，闻，见，味道，感觉...稍微高级一点点就是直观感受
 
-WhiteFall 10:21
+明玥 10:21
 
 很棒呢！
 
@@ -119,7 +119,7 @@ Enlightenment is the space between your thoughts.
 
 关键是涌现，我个人感悟
 
-WhiteFall 10:30
+明玥 10:30
 
 感觉这个词用的很好
 
