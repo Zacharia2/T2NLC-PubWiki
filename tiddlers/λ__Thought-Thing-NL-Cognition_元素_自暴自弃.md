@@ -1,4 +1,4 @@
-#! (ink pub (T i) (attr (type Topic)) (edge (supset [[⭐健康|λ:/Thought-Thing-NL-Cognition/元素/⭐健康]])))
+#! (ink pub (T i) (attr (type Topic)) (edge (supset [[11.1 ⭐健康|λ:/Thought-Thing-NL-Cognition/元素/11.1 ⭐健康]])))
 
 我们就一辈子，为什么要苦着过呢?突然间就理解了那些热爱生活的人们，活着还是要有点追求和爱好的。
 

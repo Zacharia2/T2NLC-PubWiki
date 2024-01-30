@@ -1,4 +1,4 @@
-#! (ink pub (T i) (attr (type Topic)) (edge (supset [[有效性|λ:/Thought-Thing-NL-Cognition/元素/有效性]])))
+#! (ink pub (T i) (attr (type Topic)) (edge (supset [[有效性|λ:/Thought-Thing-NL-Cognition/元素/思维工具/有效性]])))
 
 潜在价值是否可变现？总得来说，是否可变现是此元素的核心内容。
 

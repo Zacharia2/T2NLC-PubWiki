@@ -1,4 +1,4 @@
-#! (ink pub (T i) (attr (type Topic)) (edge (supset [[批判性思维]] [[心理学|λ:/Thought-Thing-NL-Cognition/元素/心理学]])))
+#! (ink pub (T i) (attr (type Topic)) (edge (supset [[批判性思维]]) (unto [[6 心理学|λ:/Thought-Thing-NL-Cognition/元素/心理学/6 心理学]])))
 
 # 相关与因果
 

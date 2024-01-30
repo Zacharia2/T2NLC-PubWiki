@@ -1,4 +1,4 @@
-#! (ink pub (T i) (attr (type Case)) (edge (supset [[生命的意义|λ:/Thought-Thing-NL-Cognition/元素/生命的意义]])))
+#! (ink pub (T i) (attr (type Case)) (edge (supset [[11.3a 生命的意义|λ:/Thought-Thing-NL-Cognition/元素/11.3a 生命的意义]])))
 
 # 生命的意义@生命的化妆
 

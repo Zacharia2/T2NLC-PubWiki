@@ -1,1 +1,0 @@
-#! (ink pub (T i) (attr (type Topic)) (edge (supset [[互动|λ:/Thought-Thing-NL-Cognition/元素/互动]]) (weak [[IANDTA|λ:/Thought-Thing-NL-Cognition/元素/IANDTA]])))

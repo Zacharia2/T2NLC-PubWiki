@@ -1,4 +1,4 @@
-#! (ink pub (T i) (attr (type Topic)) (edge (supset [[细胞膜|λ:/Thought-Thing-NL-Cognition/元素/细胞膜]])))
+#! (ink pub (T i) (attr (type Topic)) (edge (supset [[细胞膜|λ:/Thought-Thing-NL-Cognition/元素/思维工具/细胞/细胞膜]])))
 
 关于知识体系的一切都应该思考后转换为通用语言之后在输出。否则就不要说。
 

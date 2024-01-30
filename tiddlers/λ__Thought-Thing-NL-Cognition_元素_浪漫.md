@@ -1,4 +1,4 @@
-#! (ink pub (T i) (attr (type Topic)) (edge (weak [[语言|λ:/Thought-Thing-NL-Cognition/元素/语言]]，[[月华如水|λ:/Thought-Thing-NL-Cognition/元素/月华如水]])))
+#! (ink pub (T i) (attr (type Topic)) (edge (approx+weak [[7 语言|λ:/Thought-Thing-NL-Cognition/元素/语言/7 语言]]，[[月华如水|λ:/Thought-Thing-NL-Cognition/元素/思维工具/月华如水]])))
 
 # 浪漫
 
@@ -9,7 +9,7 @@
 
 浪漫就是一种对爱和“美”的触动。是即将开始却尚未开始的期待。是si意的美好的富有希望和幻想的
 
-浪漫的本质就是在于它的[[不确定性与未知|λ:/Thought-Thing-NL-Cognition/元素/discrete/不确定性与未知]]。
+浪漫的本质就是在于它的[[不确定性与未知|λ:/Thought-Thing-NL-Cognition/元素/DiscreteNote/不确定性与未知]]。
 
 我们站在真实的对立面，做起了一段短暂的、狂喜又躁动的梦。 
 

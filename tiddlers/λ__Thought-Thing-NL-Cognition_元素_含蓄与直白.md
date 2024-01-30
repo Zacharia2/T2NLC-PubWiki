@@ -1,4 +1,4 @@
-#! (ink pub (T i) (attr (type Topic)) (edge (supset [[EL情绪语言|λ:/Thought-Thing-NL-Cognition/元素/EL情绪语言]])))
+#! (ink pub (T i) (attr (type Topic)) (edge (supset [[EL情绪语言|λ:/Thought-Thing-NL-Cognition/元素/语言/EL情绪语言]])))
 
 模棱两可
 

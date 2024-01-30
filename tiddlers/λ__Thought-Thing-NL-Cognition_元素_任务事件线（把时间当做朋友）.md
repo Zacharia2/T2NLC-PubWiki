@@ -1,4 +1,4 @@
-#! (ink pub (T i) (attr (type Topic)) (edge (supset [[任务序列|λ:/Thought-Thing-NL-Cognition/元素/任务序列]]) (cite [[注意力|λ:/Thought-Thing-NL-Cognition/元素/注意力]] [[绝对时间|λ:/Thought-Thing-NL-Cognition/元素/绝对时间]] [[有限性|λ:/Thought-Thing-NL-Cognition/元素/有限性]])))
+#! (ink pub (T i) (attr (type Topic)) (edge (supset [[任务序列|λ:/Thought-Thing-NL-Cognition/元素/任务序列]]) (cite [[注意力|λ:/Thought-Thing-NL-Cognition/元素/心理学/注意力]] [[绝对时间|λ:/Thought-Thing-NL-Cognition/元素/思维工具/绝对时间]] [[有限性|λ:/Thought-Thing-NL-Cognition/元素/思维工具/有限性]])))
 
 ==管理时间=管理自己的任务列表（事情）==
 

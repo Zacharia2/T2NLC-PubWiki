@@ -1,4 +1,4 @@
-#! (ink pub (T i) (attr (type Topic)) (edge (supset [[绝对时间|λ:/Thought-Thing-NL-Cognition/元素/绝对时间]] [[文学]])))
+#! (ink pub (T i) (attr (type Topic)) (edge (supset [[文学]]) (unto [[绝对时间|λ:/Thought-Thing-NL-Cognition/元素/思维工具/绝对时间]])))
 
 
 

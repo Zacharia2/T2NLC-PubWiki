@@ -1,4 +1,4 @@
-#! (ink pub (T i) (attr (type Topic)) (edge (supset [[现实（心外世界）|λ:/Thought-Thing-NL-Cognition/元素/现实（心外世界）]])))
+#! (ink pub (T i) (attr (type Topic)) (edge (supset [[现实（心外世界）|λ:/Thought-Thing-NL-Cognition/元素/思维工具/现实（心外世界）]])))
 
 # 现实意义
 

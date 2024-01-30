@@ -1,0 +1,10 @@
+#! (ink pub (T i) (attr (type Topic) (p curr)) (edge (supset [[7 语言|λ:/Thought-Thing-NL-Cognition/元素/语言/7 语言]]) (unto [[5.1a 数学|λ:/Thought-Thing-NL-Cognition/元素/5.1a 数学]] [[4.2 思维工具|λ:/Thought-Thing-NL-Cognition/元素/思维工具/4.2 思维工具]])))
+
+# 指向性 
+
+记住，你想达到一个目的，一定要做和这个目的指向性一致的事情，然后疯狂地执行，快速试错，并且在做的过程中，控制成本，多实践，多迭代。同时，控制风险，别做短时间成本超出自己承受力的事情。
+
+赚钱也是同样的道理。
+
+
+## 语言的指向性

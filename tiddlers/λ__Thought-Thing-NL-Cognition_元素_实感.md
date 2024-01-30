@@ -1,4 +1,4 @@
-#! (ink pub (T i) (attr (type Topic)) (p curr)) (edge (supset [[身心自在|λ:/Thought-Thing-NL-Cognition/元素/身心自在]])))
+#! (ink pub (T i) (attr (type Topic) (p curr)) (edge (supset [[身心自在|λ:/Thought-Thing-NL-Cognition/元素/思维工具/身心自在]])))
 
 # 实感
 解释：真实有个性的感情或思想。

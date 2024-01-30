@@ -1,4 +1,4 @@
-#! (ink pub (T i) (attr (type Topic) (p curr)) (edge (supset [[名域与实域|λ:/Thought-Thing-NL-Cognition/元素/名域与实域]])))
+#! (ink pub (T i) (attr (type Topic) (p curr)) (edge (supset [[名域与实域|λ:/Thought-Thing-NL-Cognition/元素/思维工具/名域与实域]])))
 
 ## Form & Substance
 

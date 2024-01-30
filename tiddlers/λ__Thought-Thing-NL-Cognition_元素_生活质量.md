@@ -1,4 +1,4 @@
-#! (ink pub (T i) (attr (type Topic)) (edge (supset [[⭐健康|λ:/Thought-Thing-NL-Cognition/元素/⭐健康]]) (weak [[经济或者电池🔋问题|λ:/Thought-Thing-NL-Cognition/元素/经济或者电池🔋问题]])))
+#! (ink pub (T i) (attr (type Topic)) (edge (supset [[11.1 ⭐健康|λ:/Thought-Thing-NL-Cognition/元素/11.1 ⭐健康]]) (approx+weak [[5.3a2 经济或者电池🔋问题]])))
 
 
 > 生活质量(Quality of Life，QOL)又被称为生存质量或生命质量。全面评价生活优劣的概念。通常指社会政策与计划发展的一种结果。生活质量有别于生活水平的概念，生活水平回答的是为满足物质、文化生活需要而消费的产品和劳务的多与少，生活质量回答的是生活得“好不好”。生活质量须以生活水平为基础，但其内涵具有更大的复杂性和广泛性，它更侧重于对人的精神文化等高级需求满足程度和环境状况的评价。

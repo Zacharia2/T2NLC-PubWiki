@@ -1,0 +1,5 @@
+#! (ink pub (T i) (attr (type Topic)) (edge (supset [[3.1 IANDTA|λ:/Thought-Thing-NL-Cognition/元素/3.1 IANDTA]])))
+
+物理上的与精神上的碰撞、摩擦、起火
+
+不光考虑哲学与思维还要考虑物理与碰撞

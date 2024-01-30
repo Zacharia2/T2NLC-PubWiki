@@ -1,4 +1,4 @@
-#! (ink pub (T i) (attr (type Topic)) (edge (supset [[生命的意义|λ:/Thought-Thing-NL-Cognition/元素/生命的意义]]) (impl [[开心（快乐）|λ:/Thought-Thing-NL-Cognition/元素/开心（快乐）]] )))
+#! (ink pub (T i) (attr (type Topic)) (edge (supset [[11.3a 生命的意义|λ:/Thought-Thing-NL-Cognition/元素/11.3a 生命的意义]]) (impl [[开心（快乐）|λ:/Thought-Thing-NL-Cognition/元素/开心（快乐）]] )))
 
 首先，应该让自己保持快乐，不开心了就使自己先变得开心，然后再去做其它事情。
 

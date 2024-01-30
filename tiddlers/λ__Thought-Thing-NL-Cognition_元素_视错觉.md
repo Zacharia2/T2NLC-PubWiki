@@ -1,4 +1,4 @@
-#! (ink pub (T i) (attr (type Topic)) (edge (supset [[感觉|λ:/Thought-Thing-NL-Cognition/元素/感觉]] [[思维工具|λ:/Thought-Thing-NL-Cognition/元素/思维工具]])))
+#! (ink pub (T i) (attr (type Topic)) (edge (supset [[感觉|λ:/Thought-Thing-NL-Cognition/元素/心理学/感觉]]) (unto [[4.2 思维工具|λ:/Thought-Thing-NL-Cognition/元素/思维工具/4.2 思维工具]])))
 
 > 眼见并不一定为实
 

@@ -1,4 +1,4 @@
-#! (ink pub (T i) (attr (type Topic)) (edge (cite [[多样性、概率分布与丰富性|λ:/Thought-Thing-NL-Cognition/元素/多样性、概率分布与丰富性]])))
+#! (ink pub (T i) (attr (type Topic)) (edge (cite [[多样性、概率分布与丰富性|λ:/Thought-Thing-NL-Cognition/元素/思维工具/多样性、概率分布与丰富性]])))
 
 故事特别贴切的与跌宕坎坷、公式简洁和优雅。处理与解决事情。
 

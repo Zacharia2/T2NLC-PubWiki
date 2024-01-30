@@ -1,4 +1,4 @@
-#! (ink pub (T i) (attr (type Topic)) (edge (subset [[生命的意义|λ:/Thought-Thing-NL-Cognition/元素/生命的意义]] [[主观评价|λ:/Thought-Thing-NL-Cognition/元素/主观评价]])))
+#! (ink pub (T i) (attr (type Topic)) (edge (subset [[11.3a 生命的意义|λ:/Thought-Thing-NL-Cognition/元素/11.3a 生命的意义]] [[主观评价|λ:/Thought-Thing-NL-Cognition/元素/思维工具/主观评价]])))
 
 
 > 意义是指一件事物、行为或概念的含义或目的。它可以是文字、符号、符号或其他形式的表达方式。它是通过与其他事物或概念的关系来确定的。

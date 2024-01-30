@@ -1,4 +1,4 @@
-#! (ink pub (T i) (attr (type Topic)) (edge (supset [[镜像简化和抽象分析|λ:/Thought-Thing-NL-Cognition/元素/镜像简化和抽象分析]]) (cite [[不确定性与未知|λ:/Thought-Thing-NL-Cognition/元素/discrete/不确定性与未知]])))
+#! (ink pub (T i) (attr (type Topic)) (edge (supset [[镜像简化和抽象分析|λ:/Thought-Thing-NL-Cognition/元素/思维工具/镜像简化和抽象分析]]) (cite [[不确定性与未知|λ:/Thought-Thing-NL-Cognition/元素/DiscreteNote/不确定性与未知]])))
 
 ## 吸引力法则
 

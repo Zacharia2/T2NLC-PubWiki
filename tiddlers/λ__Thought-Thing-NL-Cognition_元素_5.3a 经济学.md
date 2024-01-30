@@ -1,0 +1,1 @@
+#! (ink pub (T i) (attr (type Concept)))

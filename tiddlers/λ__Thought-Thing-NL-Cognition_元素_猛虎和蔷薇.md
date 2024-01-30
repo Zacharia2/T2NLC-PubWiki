@@ -1,4 +1,4 @@
-#! (ink pub (T i) (attr (type Case)) (edge (supset [[一阴一阳之谓道|λ:/Thought-Thing-NL-Cognition/元素/一阴一阳之谓道]])))
+#! (ink pub (T i) (attr (type Case)) (edge (supset [[一阴一阳之谓道|λ:/Thought-Thing-NL-Cognition/元素/DiscreteNote/一阴一阳之谓道]])))
 
 # 一阴一阳之谓道@猛虎和蔷薇
 

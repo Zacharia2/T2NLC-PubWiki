@@ -1,0 +1,1 @@
+#! (ink pub (T i) (attr (type Topic)) (edge (supset [[9.1e 感觉&浮现&体验为先的学习|λ:/Thought-Thing-NL-Cognition/元素/9.1e 感觉&浮现&体验为先的学习]])))
