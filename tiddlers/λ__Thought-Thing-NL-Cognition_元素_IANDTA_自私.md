@@ -1,4 +1,4 @@
-#! (ink pub (T i) (attr (type Topic)) (edge (supset [[3.1 IANDTA|λ:/Thought-Thing-NL-Cognition/元素/3.1 IANDTA]])))
+#! (ink pub (T i) (attr (type Topic)) (edge (supset [[3.1 IANDTA|λ:/Thought-Thing-NL-Cognition/3.1 IANDTA]])))
 
 自私的等效字词有：自利、利己、自我中心、自我为中心、自顾自、只顾自己、不顾他人、以己为先
 

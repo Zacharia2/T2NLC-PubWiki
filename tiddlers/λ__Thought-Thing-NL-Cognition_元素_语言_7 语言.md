@@ -1,4 +1,4 @@
-#! (ink pub (T i) (attr (type Topic)) (edge (supset [[个体心理学和整体论|λ:/Thought-Thing-NL-Cognition/元素/心理学/个体心理学和整体论/个体心理学和整体论]]) (subset [[EL情绪语言|λ:/Thought-Thing-NL-Cognition/元素/语言/EL情绪语言]] [[2 认知科学|λ:/Thought-Thing-NL-Cognition/元素/2 认知科学]] [[5.1a 数学|λ:/Thought-Thing-NL-Cognition/元素/5.1a 数学]] [[方言|λ:/Thought-Thing-NL-Cognition/元素/语言/方言]] [[声优]])))
+#! (ink pub (T i) (attr (type Topic)) (edge (supset [[个体心理学和整体论|λ:/Thought-Thing-NL-Cognition/元素/心理学/个体心理学和整体论/个体心理学和整体论]]) (subset [[EL情绪语言|λ:/Thought-Thing-NL-Cognition/EL情绪语言]] [[2 认知科学|λ:/Thought-Thing-NL-Cognition/元素/2 认知科学]] [[5.1a 数学|λ:/Thought-Thing-NL-Cognition/元素/5.1a 数学]] [[方言|λ:/Thought-Thing-NL-Cognition/元素/语言/方言]] [[声优|λ:/Thought-Thing-NL-Cognition/声优]])))
 
 
 # 语言
@@ -76,7 +76,7 @@
 
 ## 语言的几种不同情景
 
-{{讲话的几种不同情景.xmind}}
+{{λ:/Thought-Thing-NL-Cognition/讲话的几种不同情景.xmind}}
 [img [讲话的几种不同情景.png]]
 
 

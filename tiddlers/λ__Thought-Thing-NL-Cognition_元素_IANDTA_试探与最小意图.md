@@ -1,4 +1,4 @@
-#! (ink pub (T i) (attr (type Topic)) (edge (supset [[3.1 IANDTA|λ:/Thought-Thing-NL-Cognition/元素/3.1 IANDTA]])))
+#! (ink pub (T i) (attr (type Topic)) (edge (supset [[3.1 IANDTA|λ:/Thought-Thing-NL-Cognition/3.1 IANDTA]])))
 
 最小意图？Tomzheng给了我一篇文章。
 

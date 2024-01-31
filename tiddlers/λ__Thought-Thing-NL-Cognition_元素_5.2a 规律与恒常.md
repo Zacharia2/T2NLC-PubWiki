@@ -1,4 +1,4 @@
-#! (ink pub (T i) (attr (type Topic)) (edge (supset [[5.2 自然科学|λ:/Thought-Thing-NL-Cognition/元素/5.2 自然科学]]) (unto [[5.1a 数学|λ:/Thought-Thing-NL-Cognition/元素/5.1a 数学]])))
+#! (ink pub (T i) (attr (type Topic)) (edge (supset [[5.2 自然科学|λ:/Thought-Thing-NL-Cognition/5.2 自然科学]]) (unto [[5.1a 数学|λ:/Thought-Thing-NL-Cognition/元素/5.1a 数学]])))
 
 数学中不定积分只能凑一次，这是不变的，无论如何都不会变的。
 

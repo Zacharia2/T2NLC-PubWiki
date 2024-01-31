@@ -1,4 +1,4 @@
-#! (ink pub (T i) (attr (type Topic) (p curr)) (edge (supset [[4.2 思维工具|λ:/Thought-Thing-NL-Cognition/元素/思维工具/4.2 思维工具]]) (cite [[等价变换]])))
+#! (ink pub (T i) (attr (type Topic) (p curr)) (edge (supset [[4.2 思维工具|λ:/Thought-Thing-NL-Cognition/元素/思维工具/4.2 思维工具]]) (cite [[等价变换|λ:/Thought-Thing-NL-Cognition/等价变换]])))
 
 # Eve
 

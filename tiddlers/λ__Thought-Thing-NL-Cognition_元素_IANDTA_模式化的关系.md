@@ -1,4 +1,4 @@
-#! (ink pub (T i) (attr (type Topic)) (edge (supset [[3.1 IANDTA|λ:/Thought-Thing-NL-Cognition/元素/3.1 IANDTA]]) (unto [[相互的关系|λ:/Thought-Thing-NL-Cognition/元素/IANDTA/相互的关系]])))
+#! (ink pub (T i) (attr (type Topic)) (edge (supset [[3.1 IANDTA|λ:/Thought-Thing-NL-Cognition/3.1 IANDTA]]) (unto [[相互的关系|λ:/Thought-Thing-NL-Cognition/元素/IANDTA/相互的关系]])))
 
 范式（Paradigm）的家庭关系，比如家长不应该在孩子面前吵架，不小心说了一个脏话就觉得我伤害了我的孩子吓得要死。那么而且所有人认可他，但没有一个人真正的探寻他。
 

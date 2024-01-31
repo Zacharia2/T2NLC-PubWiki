@@ -1,4 +1,4 @@
-#! (ink pub (T i) (attr (type Topic)) (edge (supset [[11.3 自爱|λ:/Thought-Thing-NL-Cognition/元素/11.3 自爱]]) (unto [[3.1 IANDTA|λ:/Thought-Thing-NL-Cognition/元素/3.1 IANDTA]])))
+#! (ink pub (T i) (attr (type Topic)) (edge (supset [[11.3 自爱|λ:/Thought-Thing-NL-Cognition/11.3 自爱]]) (unto [[3.1 IANDTA|λ:/Thought-Thing-NL-Cognition/3.1 IANDTA]])))
 
 ## 自主与无伤
 

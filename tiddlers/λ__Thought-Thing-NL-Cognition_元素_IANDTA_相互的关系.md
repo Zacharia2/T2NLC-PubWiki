@@ -1,4 +1,4 @@
-#! (ink pub (T i) (attr (type Topic)) (edge (supset [[3.1 IANDTA|λ:/Thought-Thing-NL-Cognition/元素/3.1 IANDTA]]) (unto [[7 语言|λ:/Thought-Thing-NL-Cognition/元素/语言/7 语言]])))
+#! (ink pub (T i) (attr (type Topic)) (edge (supset [[3.1 IANDTA|λ:/Thought-Thing-NL-Cognition/3.1 IANDTA]]) (unto [[7 语言|λ:/Thought-Thing-NL-Cognition/元素/语言/7 语言]])))
 
 #  关系（guānxì） Relation Relationship
 

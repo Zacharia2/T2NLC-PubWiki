@@ -373,7 +373,7 @@
 
 - **推理线索** ：你经常想通过取得问题的解决方案来提高你的推理能力。而不仅仅是_记忆_答案，您希望快速遵循推理步骤（例如，求解一个简单的数学方程式）并_生成_答案。在这种情况下，提供答案中推理步骤的提示只会帮助您在重复时始终遵循正确的道路。
     
-- **推导步骤** ：在要解决的更复杂问题中，强烈建议记住个别推导步骤（例如，解决复杂的数学问题）。这不是死记硬背！这确保大脑在解决问题的同时始终遵循最快的路径方法。有关提高创造力和智力的更多信息，请阅读：[天才和创造力的根源[img [https://img.kancloud.cn/59/55/595584352c755a01a25fe63d6268d569.svg]]](https://supermemo.com/articles/genius.htm)，以及更具体的：[推导，推理和智能](https://www.kancloud.cn/ankigaokao/incremental_learning/2454062#_395)。
+- **推导步骤** ：在要解决的更复杂问题中，强烈建议记住个别推导步骤（例如，解决复杂的数学问题）。这不是死记硬背！这确保大脑在解决问题的同时始终遵循最快的路径方法。有关提高创造力和智力的更多信息，请阅读：[天才和创造力的根源[img [|https://img.kancloud.cn/59/55/595584352c755a01a25fe63d6268d569.svg]]](https://supermemo.com/articles/genius.htm)，以及更具体的：[推导，推理和智能](https://www.kancloud.cn/ankigaokao/incremental_learning/2454062#_395)。
     
 - **多语义表述** ：通常可以从不同角度表述和审视相同的知识。在给定的记忆具有高价值的情况下，建议记住相同事实或规则的不同表述。这将增加预期的回忆率（超过[遗忘指数[img [https://img.kancloud.cn/59/55/595584352c755a01a25fe63d6268d569.svg]]](https://www.supermemo.com/help/fi.htm)指定的召回率）！
     
@@ -446,7 +446,7 @@
 
 在表述知识时，我们应始终努力形成以良好的理解为背景的[原子记忆](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Complexity)。如果学习是愉快的，[项目](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Item)可能就会表述得很好。这张图解释了为什么简单的记忆更容易[保留](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Retention)：
 
-![](https://pic3.zhimg.com/80/v2-b90db884d7288ab353d345490fee523e_720w.webp)
+[img [https://pic3.zhimg.com/80/v2-b90db884d7288ab353d345490fee523e_720w.webp]]
 
 -   图：[记忆复杂性](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Memory_complexity)说明了[最小信息原则](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Minimum_information_principle)的重要性。在记忆简单的问题和答案时，我们可以依靠简单的记忆联系，并在复习时统一刷新这种联系。复杂的记忆，其概念的激活方式可能是不完整的，或者是根据上下文的不同顺序。因此，复习时很难产生[记忆稳定性](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Memory_stability)的统一提高。复杂的项目难以记忆。一个简单项目的例子可能是一个单词对，例如 apple = pomo（世界语）。而认识一个苹果可能需要一个复杂的联系网。apple 和 pomo 之间的联系是不可简化的（即最大限度地简化）
 

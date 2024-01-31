@@ -1,4 +1,4 @@
-#! (ink pub (T i) (attr (type Topic)) (edge (supset [[11.3 自爱|λ:/Thought-Thing-NL-Cognition/元素/11.3 自爱]])))
+#! (ink pub (T i) (attr (type Topic)) (edge (supset [[11.3 自爱|λ:/Thought-Thing-NL-Cognition/11.3 自爱]])))
 
 
 # AS I BEGAN TO LOVE MYSELF

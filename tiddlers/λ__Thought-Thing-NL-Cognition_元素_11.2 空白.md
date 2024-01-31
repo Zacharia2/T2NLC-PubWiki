@@ -1,4 +1,4 @@
-#! (ink pub (T i) (attr (type Topic) (p curr origin)) (edge (supset [[11 Kernel|λ:/Thought-Thing-NL-Cognition/元素/11 Kernel]])))
+#! (ink pub (T i) (attr (type Topic) (p curr origin)) (edge (supset [[11 Kernel|λ:/Thought-Thing-NL-Cognition/11 Kernel]])))
 
 
 # 空白 『  』 Blank

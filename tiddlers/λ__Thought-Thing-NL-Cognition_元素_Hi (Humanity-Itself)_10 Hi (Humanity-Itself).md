@@ -1,4 +1,4 @@
-#! (ink pub (T i) (attr (type Topic) (p curr)) (edge (subset [[个体心理学和整体论|λ:/Thought-Thing-NL-Cognition/元素/心理学/个体心理学和整体论/个体心理学和整体论]] [[身体]]) (approx+weak 道家、佛家、儒家、心理学、哲学、医学、逻辑学、数学、法律、道德经、易经、现代计算机技术、认知科学、语言{名与实})))
+#! (ink pub (T i) (attr (type Topic) (p curr)) (edge (subset [[个体心理学和整体论|λ:/Thought-Thing-NL-Cognition/元素/心理学/个体心理学和整体论/个体心理学和整体论]] [[身体|λ:/Thought-Thing-NL-Cognition/身体]]) (approx+weak 道家、佛家、儒家、心理学、哲学、医学、逻辑学、数学、法律、道德经、易经、现代计算机技术、认知科学、语言{名与实})))
 
 # Humanity Itself
 

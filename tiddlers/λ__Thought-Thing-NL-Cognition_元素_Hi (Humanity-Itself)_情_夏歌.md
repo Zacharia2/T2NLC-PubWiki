@@ -1,4 +1,4 @@
-#! (ink pub (T i) (attr (type Case)) (edge (supset [[情|λ:/Thought-Thing-NL-Cognition/元素/Hi (Humanity-Itself)/情/情]])))
+#! (ink pub (T i) (attr (type Case)) (edge (supset [[情|λ:/Thought-Thing-NL-Cognition/情]])))
 
 # 夏歌
 

@@ -1,4 +1,4 @@
-#! (ink pub (T i) (attr (type Topic)) (edge (supset [[文学]])))
+#! (ink pub (T i) (attr (type Topic)) (edge (supset [[文学|λ:/Thought-Thing-NL-Cognition/文学]])))
 
 ## 论语选读
 

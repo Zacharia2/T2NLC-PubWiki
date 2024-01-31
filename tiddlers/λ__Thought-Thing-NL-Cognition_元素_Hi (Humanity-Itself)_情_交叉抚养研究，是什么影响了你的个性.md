@@ -1,4 +1,4 @@
-#! (ink pub (T i) (attr (type Case Topic)) (edge (supset [[情|λ:/Thought-Thing-NL-Cognition/元素/Hi (Humanity-Itself)/情/情]])))
+#! (ink pub (T i) (attr (type Case Topic)) (edge (supset [[情|λ:/Thought-Thing-NL-Cognition/情]])))
 
 
 北师大心理学，韩卓老师

@@ -1,4 +1,4 @@
-#! (ink pub (T i) (attr (type Topic)) (edge (supset [[3.1 IANDTA|λ:/Thought-Thing-NL-Cognition/元素/3.1 IANDTA]]) (unto [[情绪|λ:/Thought-Thing-NL-Cognition/元素/Hi (Humanity-Itself)/情/情绪]])))
+#! (ink pub (T i) (attr (type Topic)) (edge (supset [[3.1 IANDTA|λ:/Thought-Thing-NL-Cognition/3.1 IANDTA]]) (unto [[情绪|λ:/Thought-Thing-NL-Cognition/情绪]])))
 
 
 # 尴尬

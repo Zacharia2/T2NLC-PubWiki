@@ -1,4 +1,4 @@
-#! (ink pub (T i) (attr (type Topic)) (edge (supset [[5.3a 经济学|λ:/Thought-Thing-NL-Cognition/元素/5.3a 经济学]]) (approx+weak [[核心竞争力|λ:/Thought-Thing-NL-Cognition/元素/思维工具/核心竞争力]])))
+#! (ink pub (T i) (attr (type Topic)) (edge (supset [[5.3a 经济学|λ:/Thought-Thing-NL-Cognition/元素/5.3a 经济学]]) (approx+weak [[核心竞争力|λ:/Thought-Thing-NL-Cognition/核心竞争力]])))
 
 > 或者可以称之为：生活的基本问题或底气。总之没有经济基础的前置条件，任何想法都是泡影。没有物质与经济，无论是自然的还是劳动获得的，都无法支撑生命活动、更不要提社会活动。（当然过分的强调物质经济也是局限的。）
 

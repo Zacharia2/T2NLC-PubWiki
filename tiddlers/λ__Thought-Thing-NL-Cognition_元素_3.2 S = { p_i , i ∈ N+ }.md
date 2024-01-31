@@ -1,4 +1,4 @@
-#! (ink pub (T i) (attr (type Topic)) (edge (supset [[3 社会学|λ:/Thought-Thing-NL-Cognition/元素/3 社会学]]) (subset [[环境对个体的约束力|λ:/Thought-Thing-NL-Cognition/元素/IANDTA/环境对个体的约束力]])))
+#! (ink pub (T i) (attr (type Topic)) (edge (supset [[3 社会学|λ:/Thought-Thing-NL-Cognition/3 社会学]]) (subset [[环境对个体的约束力|λ:/Thought-Thing-NL-Cognition/元素/IANDTA/环境对个体的约束力]])))
 
 $$
 S = \{ p_i \: | \:i ∈ N^* \}, \ S \supset N

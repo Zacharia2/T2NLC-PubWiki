@@ -1,4 +1,4 @@
-#! (ink pub (T i) (attr (type Topic)) (edge (supset [[选择透过性|λ:/Thought-Thing-NL-Cognition/元素/思维工具/细胞/选择透过性/选择透过性]]) (unto [[权限和作用域]])))
+#! (ink pub (T i) (attr (type Topic)) (edge (supset [[选择透过性|λ:/Thought-Thing-NL-Cognition/选择透过性]]) (unto [[权限和作用域|λ:/Thought-Thing-NL-Cognition/权限和作用域]])))
 
 关于知识体系的一切都应该思考后转换为通用语言之后在输出。否则就不要说。
 

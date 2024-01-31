@@ -1,4 +1,4 @@
-#! (ink pub (T i) (attr (type Topic)) (edge (approx+weak [[4.2 思维工具|λ:/Thought-Thing-NL-Cognition/元素/思维工具/4.2 思维工具]] [[编程思维]])))
+#! (ink pub (T i) (attr (type Topic)) (edge (approx+weak [[4.2 思维工具|λ:/Thought-Thing-NL-Cognition/元素/思维工具/4.2 思维工具]] [[编程思维|λ:/Thought-Thing-NL-Cognition/编程思维]])))
 
 
 面向对象可以指：

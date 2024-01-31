@@ -1,4 +1,4 @@
-#! (ink pub (T i) (attr (type Topic)) (edge (supset [[3.1 IANDTA|λ:/Thought-Thing-NL-Cognition/元素/3.1 IANDTA]]) (approx [[三番五次|λ:/Thought-Thing-NL-Cognition/元素/DiscreteNote/三番五次]])))
+#! (ink pub (T i) (attr (type Topic)) (edge (supset [[3.1 IANDTA|λ:/Thought-Thing-NL-Cognition/3.1 IANDTA]]) (approx [[三番五次|λ:/Thought-Thing-NL-Cognition/元素/DiscreteNote/三番五次]])))
 
 
 # “到此为止”的智慧

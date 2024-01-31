@@ -1,4 +1,4 @@
-#! (ink pub (T i) (attr (type Topic)) (edge (supset [[6 心理学|λ:/Thought-Thing-NL-Cognition/元素/心理学/6 心理学]]) (unto [[学习观]])))
+#! (ink pub (T i) (attr (type Topic)) (edge (supset [[6 心理学|λ:/Thought-Thing-NL-Cognition/元素/心理学/6 心理学]]) (unto [[学习观|λ:/Thought-Thing-NL-Cognition/学习观]])))
 
 
  **学习** ：人们由经验产生的知识或行为，产生相对永久的改变。（卖油翁的例子：通过练习产生了相对永久的改变。熟能生巧）

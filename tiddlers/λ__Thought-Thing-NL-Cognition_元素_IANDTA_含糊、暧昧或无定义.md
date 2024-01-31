@@ -1,1 +1,1 @@
-#! (ink pub (T i) (attr (type Topic)) (edge (supset [[4.1c 数学思维|λ:/Thought-Thing-NL-Cognition/元素/4.1c 数学思维]] [[3.1 IANDTA|λ:/Thought-Thing-NL-Cognition/元素/3.1 IANDTA]])))
+#! (ink pub (T i) (attr (type Topic)) (edge (supset [[4.1c 数学思维|λ:/Thought-Thing-NL-Cognition/元素/4.1c 数学思维]] [[3.1 IANDTA|λ:/Thought-Thing-NL-Cognition/3.1 IANDTA]])))

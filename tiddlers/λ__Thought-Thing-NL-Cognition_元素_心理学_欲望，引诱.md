@@ -1,4 +1,4 @@
-#! (ink pub (T i) (attr (type Topic)) (edge (supset [[6 心理学|λ:/Thought-Thing-NL-Cognition/元素/心理学/6 心理学]]) (unto [[3.1 IANDTA|λ:/Thought-Thing-NL-Cognition/元素/3.1 IANDTA]], [[3.2 S = { p_i , i ∈ N+ }|λ:/Thought-Thing-NL-Cognition/元素/3.2 S = { p_i , i ∈ N+ }]])))
+#! (ink pub (T i) (attr (type Topic)) (edge (supset [[6 心理学|λ:/Thought-Thing-NL-Cognition/元素/心理学/6 心理学]]) (unto [[3.1 IANDTA|λ:/Thought-Thing-NL-Cognition/3.1 IANDTA]], [[3.2 S = { p_i , i ∈ N+ }|λ:/Thought-Thing-NL-Cognition/元素/3.2 S = { p_i , i ∈ N+ }]])))
 
 >[!NOTE] 引诱、诱惑
 >这种行为通常是出于引起对方的兴趣或激起他们的欲望，但却故意不给予满足或结果。这可能是出于各种目的，例如测试对方的兴趣、保持权力或控制、增加自身吸引力或与对方玩弄心理等。

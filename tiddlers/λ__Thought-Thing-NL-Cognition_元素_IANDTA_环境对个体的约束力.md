@@ -1,4 +1,4 @@
-#! (ink pub (T i) (attr (type Topic)) (edge (supset [[3.1 IANDTA|λ:/Thought-Thing-NL-Cognition/元素/3.1 IANDTA]]) (cite [[人和环境是一个不可分割的整体|λ:/Thought-Thing-NL-Cognition/元素/DiscreteNote/人和环境是一个不可分割的整体]]) (unto [[3.2 S = { p_i , i ∈ N+ }|λ:/Thought-Thing-NL-Cognition/元素/3.2 S = { p_i , i ∈ N+ }]])))
+#! (ink pub (T i) (attr (type Topic)) (edge (supset [[3.1 IANDTA|λ:/Thought-Thing-NL-Cognition/3.1 IANDTA]]) (cite [[人和环境是一个不可分割的整体|λ:/Thought-Thing-NL-Cognition/元素/DiscreteNote/人和环境是一个不可分割的整体]]) (unto [[3.2 S = { p_i , i ∈ N+ }|λ:/Thought-Thing-NL-Cognition/元素/3.2 S = { p_i , i ∈ N+ }]])))
 
 # 不可能静止的系统（环境对个体的约束力）
 

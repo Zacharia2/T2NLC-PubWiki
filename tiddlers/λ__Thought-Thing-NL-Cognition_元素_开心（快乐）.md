@@ -1,4 +1,4 @@
-#! (ink pub (T i) (attr (type Topic)) (edge (supset [[情绪|λ:/Thought-Thing-NL-Cognition/元素/Hi (Humanity-Itself)/情/情绪]]) (unto [[3.1 IANDTA|λ:/Thought-Thing-NL-Cognition/元素/3.1 IANDTA]])))
+#! (ink pub (T i) (attr (type Topic)) (edge (supset [[情绪|λ:/Thought-Thing-NL-Cognition/情绪]]) (unto [[3.1 IANDTA|λ:/Thought-Thing-NL-Cognition/3.1 IANDTA]])))
 
 # 快乐
 > 快乐是克服困难获得的，快乐也可以非常简单。

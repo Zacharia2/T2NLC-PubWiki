@@ -1,4 +1,4 @@
-#! (ink pub (T i) (attr (type Topic) (p curr)) (edge (supset [[4.2 思维工具|λ:/Thought-Thing-NL-Cognition/元素/思维工具/4.2 思维工具]]) (unto [[6 心理学|λ:/Thought-Thing-NL-Cognition/元素/心理学/6 心理学]]) (cite [[柳叶刀|λ:/Thought-Thing-NL-Cognition/元素/思维工具/柳叶刀/柳叶刀]])))
+#! (ink pub (T i) (attr (type Topic) (p curr)) (edge (supset [[4.2 思维工具|λ:/Thought-Thing-NL-Cognition/元素/思维工具/4.2 思维工具]]) (unto [[6 心理学|λ:/Thought-Thing-NL-Cognition/元素/心理学/6 心理学]]) (cite [[柳叶刀|λ:/Thought-Thing-NL-Cognition/柳叶刀]])))
 
 > ==须以：知与行对等为目标==，知道的（学）多而行，身心有印象的少就容易焦虑，轻浮。==学而不思则罔，思而不学则殆==（迷惑而无所得，精神疲倦而无所得）
 > 学以致用、用以促学、学用相长。

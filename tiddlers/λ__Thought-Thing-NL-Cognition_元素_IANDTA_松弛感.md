@@ -1,4 +1,4 @@
-#! (ink pub (T i) (attr (type Topic)) (edge (supset [[3.1 IANDTA|λ:/Thought-Thing-NL-Cognition/元素/3.1 IANDTA]])))
+#! (ink pub (T i) (attr (type Topic)) (edge (supset [[3.1 IANDTA|λ:/Thought-Thing-NL-Cognition/3.1 IANDTA]])))
 
 尽管每个人都是个体，而且还有各种情况的存在，不过不要担心，只需要粗线条（粗放扩大不凝结）就可以相安无事，即保持距离，实在不行就在放远点距离，再不行就再远。
 

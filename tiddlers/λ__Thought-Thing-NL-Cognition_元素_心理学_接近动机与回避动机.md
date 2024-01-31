@@ -1,4 +1,4 @@
-#! (ink pub (T i) (attr (type Topic)) (edge (supset [[3.1 IANDTA|λ:/Thought-Thing-NL-Cognition/元素/3.1 IANDTA]] [[6 心理学|λ:/Thought-Thing-NL-Cognition/元素/心理学/6 心理学]])))
+#! (ink pub (T i) (attr (type Topic)) (edge (supset [[3.1 IANDTA|λ:/Thought-Thing-NL-Cognition/3.1 IANDTA]] [[6 心理学|λ:/Thought-Thing-NL-Cognition/元素/心理学/6 心理学]])))
 
 # 接近动机与回避动机
 

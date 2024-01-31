@@ -1,4 +1,4 @@
-#! (ink pub (T i) (attr (type Topic)) (edge (supset [[绝对时间|λ:/Thought-Thing-NL-Cognition/元素/思维工具/绝对时间]]) (approx+weak [[静|λ:/Thought-Thing-NL-Cognition/元素/Hi (Humanity-Itself)/情/静]]) (unto [[4.2 思维工具|λ:/Thought-Thing-NL-Cognition/元素/思维工具/4.2 思维工具]])))
+#! (ink pub (T i) (attr (type Topic)) (edge (supset [[绝对时间|λ:/Thought-Thing-NL-Cognition/元素/思维工具/绝对时间]]) (approx+weak [[静|λ:/Thought-Thing-NL-Cognition/静]]) (unto [[4.2 思维工具|λ:/Thought-Thing-NL-Cognition/元素/思维工具/4.2 思维工具]])))
 
 # 当下
 

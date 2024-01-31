@@ -1,4 +1,4 @@
-#! (ink pub (T i) (attr (type Topic)) (edge (supset [[4.2 思维工具|λ:/Thought-Thing-NL-Cognition/元素/思维工具/4.2 思维工具]]) (unto [[内省或诉诸求己|λ:/Thought-Thing-NL-Cognition/元素/思维工具/Eve/内省或诉诸求己]])))
+#! (ink pub (T i) (attr (type Topic)) (edge (supset [[4.2 思维工具|λ:/Thought-Thing-NL-Cognition/元素/思维工具/4.2 思维工具]]) (unto [[内省或诉诸求己|λ:/Thought-Thing-NL-Cognition/内省或诉诸求己]])))
 
 # 红杉（树）
 

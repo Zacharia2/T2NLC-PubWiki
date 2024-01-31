@@ -1,4 +1,4 @@
-#! (ink pub (T i) (attr (type Topic)) (edge (supset [[4.2 思维工具|λ:/Thought-Thing-NL-Cognition/元素/思维工具/4.2 思维工具]]) (unto [[混沌理论]] [[量子混沌]]) (approx+weak [[11.2 空白|λ:/Thought-Thing-NL-Cognition/元素/11.2 空白]])))
+#! (ink pub (T i) (attr (type Topic)) (edge (supset [[4.2 思维工具|λ:/Thought-Thing-NL-Cognition/元素/思维工具/4.2 思维工具]]) (unto [[混沌理论|λ:/Thought-Thing-NL-Cognition/混沌理论]] [[量子混沌|λ:/Thought-Thing-NL-Cognition/量子混沌]]) (approx+weak [[11.2 空白|λ:/Thought-Thing-NL-Cognition/元素/11.2 空白]])))
 
 混沌理论：https://mp.weixin.qq.com/s/iVHXsXYv5rD7wjyLKpIGrw
 

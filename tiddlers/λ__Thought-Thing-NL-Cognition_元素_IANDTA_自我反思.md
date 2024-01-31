@@ -1,4 +1,4 @@
-#! (ink pub (T i) (attr (type Topic)) (edge (supset [[3.1 IANDTA|λ:/Thought-Thing-NL-Cognition/元素/3.1 IANDTA]]) (unto [[6 心理学|λ:/Thought-Thing-NL-Cognition/元素/心理学/6 心理学]])))
+#! (ink pub (T i) (attr (type Topic)) (edge (supset [[3.1 IANDTA|λ:/Thought-Thing-NL-Cognition/3.1 IANDTA]]) (unto [[6 心理学|λ:/Thought-Thing-NL-Cognition/元素/心理学/6 心理学]])))
 
 【一件很重要，但爸爸妈妈可能没教我们的事-哔哩哔哩】 https://b23.tv/pN2sJ4J
 

@@ -1,4 +1,4 @@
-#! (ink pub (T i) (attr (type Topic)) (edge (as [[选择透过性|λ:/Thought-Thing-NL-Cognition/元素/思维工具/细胞/选择透过性/选择透过性]]) (supset [[细胞膜|λ:/Thought-Thing-NL-Cognition/元素/思维工具/细胞/细胞膜]])))
+#! (ink pub (T i) (attr (type Topic)) (edge (as [[选择透过性|λ:/Thought-Thing-NL-Cognition/选择透过性]]) (supset [[细胞膜|λ:/Thought-Thing-NL-Cognition/元素/思维工具/细胞/细胞膜]])))
 
 # 细胞?雏菊
 

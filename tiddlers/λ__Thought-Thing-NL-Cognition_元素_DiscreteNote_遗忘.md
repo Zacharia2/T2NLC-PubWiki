@@ -15,7 +15,7 @@
 
 ## 遗忘是心静的风铃
   
-keys:：[[静|λ:/Thought-Thing-NL-Cognition/元素/Hi (Humanity-Itself)/情/静]]
+keys:：[[静|λ:/Thought-Thing-NL-Cognition/静]]
 
 越是执着于某事就会被某事所迷惑，越是执着于情，深入于情，就会被情所困扰。
 

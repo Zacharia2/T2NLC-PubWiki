@@ -1,4 +1,4 @@
-#! (ink pub (T i) (attr (type Topic)) (edge (supset [[5.3a 经济学|λ:/Thought-Thing-NL-Cognition/元素/5.3a 经济学]]) (unto [[3.1 IANDTA|λ:/Thought-Thing-NL-Cognition/元素/3.1 IANDTA]])))
+#! (ink pub (T i) (attr (type Topic)) (edge (supset [[5.3a 经济学|λ:/Thought-Thing-NL-Cognition/元素/5.3a 经济学]]) (unto [[3.1 IANDTA|λ:/Thought-Thing-NL-Cognition/3.1 IANDTA]])))
 
 > 在哲学、伦理学和社会科学等领域，价值指的是人们对于事物的重要性、意义、好坏等方面的[[主观评价|λ:/Thought-Thing-NL-Cognition/元素/思维工具/主观评价]]。它是人类社会活动和行为的基础，反映了个体和社会对于事物的认知、信仰和追求。
 > 

@@ -1,4 +1,4 @@
-#! (ink pub (T i) (attr (type Topic)) (edge (supset [[相互的关系|λ:/Thought-Thing-NL-Cognition/元素/IANDTA/相互的关系]]) (unto [[3 社会学|λ:/Thought-Thing-NL-Cognition/元素/3 社会学]])))
+#! (ink pub (T i) (attr (type Topic)) (edge (supset [[相互的关系|λ:/Thought-Thing-NL-Cognition/元素/IANDTA/相互的关系]]) (unto [[3 社会学|λ:/Thought-Thing-NL-Cognition/3 社会学]])))
 
 社会学术语。指人与人之间的交互作用。分为感官的互动、情绪的互动和理智的互动。
 # 互动

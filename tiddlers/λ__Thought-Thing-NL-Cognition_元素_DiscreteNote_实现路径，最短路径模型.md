@@ -1,4 +1,4 @@
-#! (ink pub (T i) (attr (type Topic)) (edge (complex [[自由与局限|λ:/Thought-Thing-NL-Cognition/元素/思维工具/真实/自由与局限/自由与局限]] [[柳叶刀|λ:/Thought-Thing-NL-Cognition/元素/思维工具/柳叶刀/柳叶刀]] [[4.3 经验的隔阂|λ:/Thought-Thing-NL-Cognition/元素/4.3 经验的隔阂]])))
+#! (ink pub (T i) (attr (type Topic)) (edge (complex [[自由与局限|λ:/Thought-Thing-NL-Cognition/元素/思维工具/真实/自由与局限/自由与局限]] [[柳叶刀|λ:/Thought-Thing-NL-Cognition/柳叶刀]] [[4.3 经验的隔阂|λ:/Thought-Thing-NL-Cognition/元素/4.3 经验的隔阂]])))
 
 # 最短路径模型
 
