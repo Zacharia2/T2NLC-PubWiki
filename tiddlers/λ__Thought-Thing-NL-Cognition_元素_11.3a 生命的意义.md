@@ -1,6 +1,6 @@
 #! (ink pub (T i) (attr (type Topic)) (edge (supset [[11.3 自爱|λ:/Thought-Thing-NL-Cognition/11.3 自爱]]) (subset [[快乐才有意义|λ:/Thought-Thing-NL-Cognition/元素/快乐才有意义]])))
 
-> 生命好在无意义，才容得下各自赋予意义。
+<<callout type:"" title:"生命好在无意义，才容得下各自赋予意义。" src:"">>
 # 生命的意义
 
 我们人类“首先存在于环境之中，我们不能脱离环境，环境塑造了我们，决定了我们的可能性”

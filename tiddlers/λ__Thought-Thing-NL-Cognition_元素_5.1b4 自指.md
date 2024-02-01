@@ -1,9 +1,9 @@
 #! (ink pub (T i) (attr (type Topic)) (edge (supset [[5.1b 逻辑学|λ:/Thought-Thing-NL-Cognition/元素/5.1b 逻辑学]]) (unto [[4.2 思维工具|λ:/Thought-Thing-NL-Cognition/元素/思维工具/4.2 思维工具]]) (cite [循环参考](https://zh.wikipedia.org/w/index.php?title=%E5%BE%AA%E7%8E%AF%E5%8F%82%E8%80%83&action=edit&redlink=1)，  [德罗斯特效应](https://zh.wikipedia.org/wiki/%E5%BE%B7%E7%BD%97%E6%96%AF%E7%89%B9%E6%95%88%E5%BA%94 "德罗斯特效应")， [第四面墙](https://zh.wikipedia.org/wiki/%E7%AC%AC%E5%9B%9B%E9%9D%A2%E5%A2%99)，  自指幽默，递归，递归缩写， 镜中镜)))
 
 ## 自指
-> 自我 **指** 涉（self-reference）简称 **自指** ，是一个逻辑学的概念。通俗来说，一个东西在描述自己，这就叫做自我 **指** 涉。
+<<callout type:" **指** 涉（self-reference）简称 **自指** ，是一个逻辑学的概念。通俗来说，一个东西在描述自己，这就叫做自我 **指** 涉" title:"" src:"">>
 > 
-> 自指结构
+<<callout type:"" title:"自指结构" src:"">>
 >
 >[什么是自指 | 集智百科 | 集智俱乐部 (swarma.org)](https://swarma.org/?p=25224)
 

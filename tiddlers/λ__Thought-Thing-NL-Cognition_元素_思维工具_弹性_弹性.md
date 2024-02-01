@@ -1,6 +1,6 @@
 #! (ink pub (T i) (attr (type Topic) (p curr)) (edge (supset [[4.2 思维工具|λ:/Thought-Thing-NL-Cognition/元素/思维工具/4.2 思维工具]])))
 
-> 变命令为选择，变复杂为简单，变确定为不确定，变拯救为包容，变伟业为小事，变沮丧为理解。
+<<callout type:"" title:"变命令为选择，变复杂为简单，变确定为不确定，变拯救为包容，变伟业为小事，变沮丧为理解。" src:"">>
 
 ## 喵先生聊心理健康  
 —— 王涛

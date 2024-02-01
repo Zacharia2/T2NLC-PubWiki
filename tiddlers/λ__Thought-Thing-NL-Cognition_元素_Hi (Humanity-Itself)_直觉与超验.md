@@ -10,8 +10,8 @@
  **超越主义** ，或 **超越论** （英文：Transcendentalism），也称作“[新英格兰](https://zh.wikipedia.org/wiki/%E6%96%B0%E8%8B%B1%E6%A0%BC%E5%85%B0 "新英格兰")超越主义”或“[美国](https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9B%BD "美国")[文艺复兴](https://zh.wikipedia.org/wiki/%E6%96%87%E8%89%BA%E5%A4%8D%E5%85%B4 "文艺复兴")”，是美国的一种[文学](https://zh.wikipedia.org/wiki/%E6%96%87%E5%AD%A6 "文学")和[哲学](https://zh.wikipedia.org/wiki/%E5%93%B2%E5%AD%A6 "哲学")运动。
 主张人能超越[感觉](https://zh.wikipedia.org/wiki/%E6%84%9F%E8%A6%BA "感觉")和[理性](https://zh.wikipedia.org/wiki/%E7%90%86%E6%80%A7 "理性")而直接认识[真理](https://zh.wikipedia.org/wiki/%E7%9C%9F%E7%90%86 "真理")，认为[人类](https://zh.wikipedia.org/wiki/%E4%BA%BA%E7%B1%BB "人类")世界的一切都是[宇宙](https://zh.wikipedia.org/wiki/%E5%AE%87%E5%AE%99 "宇宙")的一个缩影：
 
-> “就像我们面对面和在明朗的白天里悟到真理一样，我们也在背地里和在黑夜中与真理不期而遇。”——[梭罗](https://zh.wikipedia.org/wiki/%E4%BA%A8%E5%88%A9%C2%B7%E6%88%B4%E7%BB%B4%C2%B7%E6%A2%AD%E7%BD%97 "亨利·戴维·梭罗")语
-> “世界将其自身缩小成为一滴露水”——[爱默生](https://zh.wikipedia.org/wiki/%E6%8B%89%E5%B0%94%E5%A4%AB%C2%B7%E6%B2%83%E5%B0%94%E5%A4%9A%C2%B7%E7%88%B1%E9%BB%98%E7%94%9F "拉尔夫·沃尔多·爱默生")语
+<<callout type:"像我们面对面和在明朗的白天里悟到真理一样，我们也在背地里和在黑夜中与真理不期而遇。”——[梭罗](https://zh.wikipedia.org/wiki/%e4%ba%a8%e5%88%a9%c2%b7%e6%88%b4%e7%bb%b4%c2%b7%e6%a2%ad%e7%bd%9" title:""亨利·戴维·梭罗")语" src:"">>
+<<callout type:"界将其自身缩小成为一滴露水”——[爱默生](https://zh.wikipedia.org/wiki/%e6%8b%89%e5%b0%94%e5%a4%ab%c2%b7%e6%b2%83%e5%b0%94%e5%a4%9a%c2%b7%e7%88%b1%e9%bb%98%e7%94%9" title:""拉尔夫·沃尔多·爱默生")语" src:"">>
 
 它强调万物本质上的统一，万物皆受“超灵”制约，而人类灵魂与“超灵”一致。这种对人之神圣的肯定使 **超验主义者** 蔑视外部的权威与传统，依赖自己的直接经验。
 

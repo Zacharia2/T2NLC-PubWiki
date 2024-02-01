@@ -1,7 +1,7 @@
 #! (ink pub (T i) (attr (type Case)) (edge (supset [[5 现代科学|λ:/Thought-Thing-NL-Cognition/元素/5 现代科学]])))
 
-> 翻译的原则：由个人理解附会，原文在下方。
-> [jiejing/伦敦的一项研究.md at main · momo24712/jiejing (github.com)](https://github.com/momo24712/jiejing/blob/main/%E8%B5%84%E6%96%99/%E6%95%B0%E6%8D%AE/%E4%BC%A6%E6%95%A6%E7%9A%84%E4%B8%80%E9%A1%B9%E7%A0%94%E7%A9%B6.md)
+<<callout type:"" title:"翻译的原则：由个人理解附会，原文在下方。" src:"">>
+<<callout type:"iejing/伦敦的一项研究.m" title:"at main · momo24712/jiejing (github.com)](https://github.com/momo24712/jiejing/blob/main/%E8%B5%84%E6%96%99/%E6%95%B0%E6%8D%AE/%E4%BC%A6%E6%95%A6%E7%9A%84%E4%B8%80%E9%A1%B9%E7%A0%94%E7%A9%B6.md)" src:"">>
 ## 标题：占星术无法预测的研究
 <p align="right">最近更新时间：BST时间2003年8月17日 12:01上午 </p>
 

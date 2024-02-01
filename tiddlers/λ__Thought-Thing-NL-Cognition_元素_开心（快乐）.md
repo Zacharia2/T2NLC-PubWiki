@@ -1,8 +1,8 @@
 #! (ink pub (T i) (attr (type Topic)) (edge (supset [[情绪|λ:/Thought-Thing-NL-Cognition/情绪]]) (unto [[3.1 IANDTA|λ:/Thought-Thing-NL-Cognition/3.1 IANDTA]])))
 
 # 快乐
-> 快乐是克服困难获得的，快乐也可以非常简单。
-> 开心就是藏在自己创造的生活里，每一件都像是慵懒简单优雅的艺术品
+<<callout type:"" title:"快乐是克服困难获得的，快乐也可以非常简单。" src:"">>
+<<callout type:"" title:"开心就是藏在自己创造的生活里，每一件都像是慵懒简单优雅的艺术品" src:"">>
 
  **快乐** 是一种感受良好时的[情绪](https://zh.wikipedia.org/wiki/%E6%83%85%E7%B7%92 "情绪")反应，一种能表现出心理状态的情绪。而且常见的成因包括感到对[健康](https://zh.wikipedia.org/wiki/%E5%81%A5%E5%BA%B7 "健康")、[安全](https://zh.wikipedia.org/wiki/%E5%AE%89%E5%85%A8 "安全")、[爱情](https://zh.wikipedia.org/wiki/%E6%84%9B%E6%83%85 "爱情")等之满足。快乐最常见的表达方式就是[笑](https://zh.wikipedia.org/wiki/%E7%AC%91 "笑")。
 

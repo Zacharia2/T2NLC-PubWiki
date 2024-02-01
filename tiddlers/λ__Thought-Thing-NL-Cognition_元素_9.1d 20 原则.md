@@ -468,8 +468,8 @@
 
 ## 基于主动回忆的学习中的知识结构与表述
 
-> 译者：叶峻峣
-> 原文：http://super-memory.com/english/ol/ks.htm
+<<callout type:"" title:"译者：叶峻峣" src:"">>
+<<callout type:"：http://super-memory.com/english/ol/ks.ht" title:"" src:"">>
 
  **[Piotr Wozniak](https://super-memory.com/english/english/company/wozniak.htm), 1994** 
 

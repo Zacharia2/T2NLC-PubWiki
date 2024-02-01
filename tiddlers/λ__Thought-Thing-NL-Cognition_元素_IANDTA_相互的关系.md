@@ -2,14 +2,14 @@
 
 #  关系（guānxì） Relation Relationship
 
-> © 汉典：关系，是汉语词汇，汉语拼音为guān xì，指事物之间相互作用、相互影响的状态。
+<<callout type:"©" title:"汉典：关系，是汉语词汇，汉语拼音为guān xì，指事物之间相互作用、相互影响的状态。" src:"">>
 
-> (1) [relation;relationship]、(2) 事物之间相互作用、相互影响的状态{红专关系，小王跟这件事没有关系}、(3) 人和人或人和事物之间某种性质的联系{社会关系、党群关系}、(4) [bearing;impact]∶有影响或重要性{没有关系,不会出什么大乱子的}、(5) [reason;condition]∶泛指原因、条件{由于时间关系,我不往下讲了}、(6) [concern;affect]∶牵涉{交通安全是关系到千万人家庭幸福的大事}、(7) [credentials showing membership in or connection with an organization]∶组织关系{转关系，下午,我还要去转团的关系}、(8) [because;the reason]∶泛指原因、条件等{外祖母大人因年老关系,今年不比往年健康,但仍不辍劳动,尤喜纺棉。——朱德《回忆我的母亲》}
+<<callout type:") [relation;relationship]、(2) 事物之间相互作用、相互影响的状态{红专关系，小王跟这件事没有关系}、(3) 人和人或人和事物之间某种性质的联系{社会关系、党群关系}、(4) [bearing;impact]∶有影响或重要性{没有关系,不会出什么大乱子的}、(5) [reason;condition]∶泛指原因、条件{由于时间关系,我不往下讲了}、(6) [concern;affect]∶牵涉{交通安全是关系到千万人家庭幸福的大事}、(7) [credential" title:"showing membership in or connection with an organization]∶组织关系{转关系，下午,我还要去转团的关系}、(8) [because;the reason]∶泛指原因、条件等{外祖母大人因年老关系,今年不比往年健康,但仍不辍劳动,尤喜纺棉。——朱德《回忆我的母亲》}" src:"">>
 
 
 ## 关系 
 
-> 人际关系 百度百科
+<<callout type:"关" title:"百度百科" src:"">>
 
 -   关系是指人与人之间，人与事物之间，事物与事物之间的相互联系。
 -   市场营销中的关系是指精明的市场营销者为了促使企业交易成功而与其顾客、分销商、经销商、供应商等建立起长期的互利互信关系。它促使市场营销者以公平的价格，优质的产品，良好的服务与对方交易，同时，双方的成员之间还需加强经济，技术及社会等各方面的联系与交易。
@@ -23,8 +23,8 @@
 
 人际关系是个人与他人之间建立、维持和结束联系的过程。
 
-> keep in touch
-> 聊天范围，个人元素、特性、性格、情绪色彩等无意识的对生活事物的应答。
+<<callout type:"e" title:"in touch" src:"">>
+<<callout type:"" title:"聊天范围，个人元素、特性、性格、情绪色彩等无意识的对生活事物的应答。" src:"">>
 
 瞬间联想，谐音梗，内容简短易懂，粗线条，并加入一些废话当做绘画空白
 
@@ -36,10 +36,10 @@
 
 ## relation
 
-> 人、团体或国家之间的关系是他们之间的接触以及他们相互之间的行为方式。
+<<callout type:"" title:"人、团体或国家之间的关系是他们之间的接触以及他们相互之间的行为方式。" src:"">>
 
-> If you [talk](https://www.collinsdictionary.com/zh/dictionary/english/talk "talk 的释义") about the relation of one thing to another, you are talking about the ways in which they are connected.
-> 如果你谈论一个事物与另一个事物的关系，你就是在谈论它们的连接方式。
+<<callout type:"f" title:"you [talk](https://www.collinsdictionary.com/zh/dictionary/english/talk "talk 的释义") about the relation of one thing to another, you are talking about the ways in which they are connected." src:"">>
+<<callout type:"" title:"如果你谈论一个事物与另一个事物的关系，你就是在谈论它们的连接方式。" src:"">>
 
 1.	\[pl]（人、团体、国家之间的）关系，联系，交往the way in which two people, groups or countries behave towards each other or deal with each other
 2.	\[u]\[c]
@@ -63,7 +63,7 @@ The relationship between two things is the way in which they are connected.
 
 ## 关系
 
-> 逻辑和数学，ref：https://www.britannica.com/topic/joking-relationship. Accessed 26 March 2023.
+<<callout type:"和数学，ref：https://www.britannica.com/topic/joking-relationship. accessed 26 march 2023" title:"" src:"">>
 
 关系，在逻辑学中，是一组有序的对、三、四等关系，等等。一组有序的对称为二位数（或二元数）关系；一组有序的三元数为三位数（或三元数）关系；等等。一般来说，一个关系是任何一组有序的N个对象的图元。关系的重要属性包括对称性、传递性和反身性。如果每当R在x和y之间成立时，它在y和x之间也成立，那么可以说R是对称的（象征性地，(∀x) (∀y) \[Rxy ⊃ Ryx]）；对称关系的一个例子是 "x与y平行"。如果在一个对象和第二个对象之间，以及在第二个对象和第三个对象之间，它在第一个对象和第三个对象之间都成立，那么R就是传递性的（象征性地，(∀x) (∀y) (∀z ) \[(Rxy ∧ Ryz) ⊃Rxz]）；一个例子是 "x比y大"。如果R在任何对象和它本身之间总是成立，那么它就是反身的（象征性地，(∀x) Rxx）；一个例子是 "x至少和y一样高"，因为x也总是和它本身 "至少一样高"。
 
@@ -71,8 +71,8 @@ The relationship between two things is the way in which they are connected.
 
 ## 关系（[Stanford](https://plato.stanford.edu/index.html)）
 
-> ref：https://plato.stanford.edu/entries/relations
-> 首次发表于2016年2月9日星期二; 实质性修订于2020年10月28日星期三
+<<callout type:"" title:"ref：https://plato.stanford.edu/entries/relations" src:"">>
+<<callout type:"发表于2016年2月9日星期二" title:"实质性修订于2020年10月28日星期三" src:"">>
 
 我们居住的世界不是一个无差别的沼泽。到处都有重复，重要的是，我们甚至可以区分不同类型的重复。我们看到一只猫和另一只猫。但是我们也可以看到我们的猫在垫子的上面，随后注意到隔壁的猫在栅栏的上面。第一种意义上的重复只需要一样东西，然后是另一样东西。相比之下，第二种意义上的重复需要两件(或更多)事情，然后需要两件(或更多)其他事情。属性的引入通常是为了解释第一种意义上的重复，而关系的引入通常是为了解释第二种意义上的重复。之所以有猫的重复，是因为有不止一样东西具有某种特性，那就是猫的特性。之所以有上下重复，是因为有不止一个事物与另一个事物有某种联系，这种联系存在于两个事物之间，当一个事物在另一个事物之上时。
 
@@ -94,9 +94,9 @@ The relationship between two things is the way in which they are connected.
 
 ## 说笑关系 Joking
 
-> 玩话：闹着玩的话；开玩笑的话； 戏谑：用诙谐的话开玩笑。
+<<callout type:"：闹着玩的话；开玩笑的话" title:"戏谑：用诙谐的话开玩笑。" src:"">>
 
-> 社会学，ref：https://www.britannica.com/topic/joking-relationship. Accessed 26 March 2023.
+<<callout type:"学，ref：https://www.britannica.com/topic/joking-relationship. accessed 26 march 2023" title:"" src:"">>
 
  **开玩笑的关系** ，两个人或团体之间的关系，允许或需要异常自由的口头或身体互动。这种关系可以是相互的（对称的），也可以是以一种这样的方式正式化，即一个人或团体进行戏弄，而另一个人或群体不允许报复（不对称）。互动的类型各不相同，可能包括轻微的戏弄、惩罚、辱骂、性肋骨或马戏。
 
@@ -110,7 +110,7 @@ The relationship between two things is the way in which they are connected.
 
 # 回避关系
 
-> 人类学，ref：https://www.britannica.com/topic/avoidance-relationship. Accessed 26 March 2023.
+<<callout type:"学，ref：https://www.britannica.com/topic/avoidance-relationship. accessed 26 march 2023" title:"" src:"">>
 
  **回避关系** ，在人类社会中，一个人对另一个人的制度化、形式化的回避。回避关系通常涉及彼此之间有特定[亲属](https://www.britannica.com/topic/kinship)关系的异性。
 

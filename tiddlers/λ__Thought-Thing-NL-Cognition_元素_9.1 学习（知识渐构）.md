@@ -1,7 +1,7 @@
 #! (ink pub (T i) (attr (type Topic)) (edge (supset [[个体心理学和整体论|λ:/Thought-Thing-NL-Cognition/元素/心理学/个体心理学和整体论/个体心理学和整体论]])))
 
 # 知识渐构
-> [渐构 Modevol](https://www.modevol.com/)
+<<callout type:"" title:"Modevol](https://www.modevol.com/)" src:"">>
 
 
 ## 信息和知识完全不同
