@@ -1,4 +1,4 @@
-#! (ink pub (T i) (attr (type Topic)) (edge (supset [[4.1c 数学思维|λ:/Thought-Thing-NL-Cognition/元素/4.1c 数学思维]]) (approx+weak [[自由与局限|λ:/Thought-Thing-NL-Cognition/元素/思维工具/真实/自由与局限/自由与局限]])))
+#! (ink pub (T i) (attr (type Topic)) (edge (supset [[4.1c 数学思维|λ:/Thought-Thing-NL-Cognition/元素/4.1c 数学思维]]) (approx+weak [[自由与局限|λ:/Thought-Thing-NL-Cognition/元素/4.2 思维工具/真实/自由与局限/自由与局限]])))
 
 # 统计与概率
 

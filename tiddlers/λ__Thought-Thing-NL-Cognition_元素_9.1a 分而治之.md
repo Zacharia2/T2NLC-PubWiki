@@ -1,4 +1,4 @@
-#! (ink pub (T i) (attr (type Topic)) (edge (supset [[9.1 学习（知识渐构）|λ:/Thought-Thing-NL-Cognition/元素/9.1 学习（知识渐构）]]) (unto [[4.2 思维工具|λ:/Thought-Thing-NL-Cognition/元素/思维工具/4.2 思维工具]])))
+#! (ink pub (T i) (attr (type Topic)) (edge (supset [[9.1 学习（知识渐构）|λ:/Thought-Thing-NL-Cognition/元素/9.1 学习（知识渐构）]]) (unto [[4.2 思维工具|λ:/Thought-Thing-NL-Cognition/元素/4.2 思维工具/4.2 思维工具]])))
 
 # 分而治之
 

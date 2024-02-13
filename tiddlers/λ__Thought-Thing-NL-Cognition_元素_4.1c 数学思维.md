@@ -1,4 +1,4 @@
-#! (ink pub (T i) (attr (type Topic)) (edge (supset [[4.1 思维方式|λ:/Thought-Thing-NL-Cognition/元素/4.1 思维方式]]) (as [[柳叶刀|λ:/Thought-Thing-NL-Cognition/柳叶刀]] [[7 语言|λ:/Thought-Thing-NL-Cognition/元素/语言/7 语言]])))
+#! (ink pub (T i) (attr (type Topic)) (edge (supset [[4.1 思维方式|λ:/Thought-Thing-NL-Cognition/元素/4.1 思维方式]]) (as [[柳叶刀|λ:/Thought-Thing-NL-Cognition/柳叶刀]] [[7 语言|λ:/Thought-Thing-NL-Cognition/元素/7 语言]])))
 
 # 数学思维
 

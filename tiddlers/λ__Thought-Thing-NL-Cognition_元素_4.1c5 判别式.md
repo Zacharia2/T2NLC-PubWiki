@@ -1,4 +1,4 @@
-#! (ink pub (T i) (attr (type Topic)) (edge (supset [[4.2 思维工具|λ:/Thought-Thing-NL-Cognition/元素/思维工具/4.2 思维工具]]) (unto [[4.1c 数学思维|λ:/Thought-Thing-NL-Cognition/元素/4.1c 数学思维]])))
+#! (ink pub (T i) (attr (type Topic)) (edge (supset [[4.2 思维工具|λ:/Thought-Thing-NL-Cognition/元素/4.2 思维工具/4.2 思维工具]]) (unto [[4.1c 数学思维|λ:/Thought-Thing-NL-Cognition/元素/4.1c 数学思维]])))
 
 判别式是指在数学中用于区分不同情况的公式或方法。在代数中，判别式通常指某个方程的根的性质与特征值有关的一个多项式表达式，例如二次方程的判别式就是$b^2-4ac$。在统计学和机器学习中，判别式是一种分类函数，用于将不同的数据点分配到不同的预定义类别中。
 

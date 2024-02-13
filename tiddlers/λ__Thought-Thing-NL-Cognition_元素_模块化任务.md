@@ -1,1 +1,0 @@
-#! (ink pub (T i) (attr (type Topic)) (edge (supset [[任务序列|λ:/Thought-Thing-NL-Cognition/元素/任务序列]])))

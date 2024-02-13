@@ -1,0 +1,1 @@
+#! (ink pub (T i) (attr (type Topic)) (edge (supset [[任务管理, 把时间当做朋友|λ:/Thought-Thing-NL-Cognition/元素/DiscreteNote/任务管理, 把时间当做朋友]])))

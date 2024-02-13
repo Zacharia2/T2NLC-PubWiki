@@ -1,4 +1,4 @@
-#! (ink pub (T i) (attr (type Topic)) (edge (subset [[5.1b1 逻辑导论|λ:/Thought-Thing-NL-Cognition/元素/5.1b1 逻辑导论]] [[辩证逻辑|λ:/Thought-Thing-NL-Cognition/元素/思维工具/辩证逻辑]] [[形式逻辑|λ:/Thought-Thing-NL-Cognition/元素/思维工具/形式逻辑]])))
+#! (ink pub (T i) (attr (type Topic)) (edge (subset [[5.1b1 逻辑导论|λ:/Thought-Thing-NL-Cognition/元素/5.1b1 逻辑导论]] [[辩证逻辑|λ:/Thought-Thing-NL-Cognition/元素/4.2 思维工具/辩证逻辑]] [[形式逻辑|λ:/Thought-Thing-NL-Cognition/元素/4.2 思维工具/形式逻辑]])))
 
 相似文章：[逻辑学笔记 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/386947588)
 

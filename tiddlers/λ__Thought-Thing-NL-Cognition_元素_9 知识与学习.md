@@ -1,4 +1,4 @@
-#! (ink pub (T i) (attr (type Topic)) (edge (supset [[心智|λ:/Thought-Thing-NL-Cognition/元素/心理学/个体心理学和整体论/心智]]) (approx+weak [[5 现代科学|λ:/Thought-Thing-NL-Cognition/元素/5 现代科学]])))
+#! (ink pub (T i) (attr (type Topic)) (edge (supset [[心智|λ:/Thought-Thing-NL-Cognition/元素/3.3 Hi 个体心理学/心智]]) (approx+weak [[5 现代科学|λ:/Thought-Thing-NL-Cognition/元素/5 现代科学]])))
 
 # 知识
 

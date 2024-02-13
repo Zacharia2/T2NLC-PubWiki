@@ -1,4 +1,4 @@
-#! (ink pub (T i) (attr (type Topic)) (edge (subset [[4.1 思维方式|λ:/Thought-Thing-NL-Cognition/元素/4.1 思维方式]] [[类比思维|λ:/Thought-Thing-NL-Cognition/元素/思维工具/序/类比思维]] [[知性与知性思维|λ:/Thought-Thing-NL-Cognition/元素/IANDTA/知性与知性思维]])))
+#! (ink pub (T i) (attr (type Topic)) (edge (subset [[4.1 思维方式|λ:/Thought-Thing-NL-Cognition/元素/4.1 思维方式]] [[类比思维|λ:/Thought-Thing-NL-Cognition/元素/4.2 思维工具/序/类比思维]] [[知性与知性思维|λ:/Thought-Thing-NL-Cognition/元素/3.1 IANDTA/知性与知性思维]])))
 
  **思维** ：就是对信息的交换、加工和理解的过程。（心理学家联想到算命等）
 # 思维可以指：

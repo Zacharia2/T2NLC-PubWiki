@@ -1,4 +1,4 @@
-#! (ink pub (T i) (attr (type Topic)) (edge (approx+weak [[实感|λ:/Thought-Thing-NL-Cognition/元素/实感]])))
+#! (ink pub (T i) (attr (type Topic)) (edge (approx+weak [[实感|λ:/Thought-Thing-NL-Cognition/元素/DiscreteNote/实感]])))
 
 # 遗忘
 
@@ -9,13 +9,13 @@
 感觉是进行时哦 
 
 
-人可以在一瞬间悟明，但又常常在随后沉甸甸的十几个小时里把它忘得一干二净。想要停留在“灵魂所能登上的高峰”何其难。人可以深思“永恒”，却只能在“时间”里缓缓移动。——奥斯卡·王尔德《自深深处》。keys:：[[绝对时间|λ:/Thought-Thing-NL-Cognition/元素/思维工具/绝对时间]]
+人可以在一瞬间悟明，但又常常在随后沉甸甸的十几个小时里把它忘得一干二净。想要停留在“灵魂所能登上的高峰”何其难。人可以深思“永恒”，却只能在“时间”里缓缓移动。——奥斯卡·王尔德《自深深处》。keys:：[[绝对时间|λ:/Thought-Thing-NL-Cognition/元素/4.2 思维工具/绝对时间]]
 
 
 
 ## 遗忘是心静的风铃
   
-keys:：[[静|λ:/Thought-Thing-NL-Cognition/静]]
+keys:：[[3.3a1 静|λ:/Thought-Thing-NL-Cognition/3.3a1 静]]
 
 越是执着于某事就会被某事所迷惑，越是执着于情，深入于情，就会被情所困扰。
 

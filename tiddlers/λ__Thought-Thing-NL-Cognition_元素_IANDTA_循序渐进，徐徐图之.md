@@ -1,1 +1,0 @@
-#! (ink pub (T i) (attr (type Topic) (p curr)) (edge (supset [[3.1 IANDTA|λ:/Thought-Thing-NL-Cognition/3.1 IANDTA]]) (unto [[4.2 思维工具|λ:/Thought-Thing-NL-Cognition/元素/思维工具/4.2 思维工具]])))
