@@ -1,4 +1,4 @@
-#! (ink pub (T i) (attr (type Topic)) (edge (supset [[绝对时间|λ:/Thought-Thing-NL-Cognition/元素/4.2 思维工具/绝对时间]]) (approx+weak [[3.3a1 静|λ:/Thought-Thing-NL-Cognition/3.3a1 静]]) (unto [[4.2 思维工具|λ:/Thought-Thing-NL-Cognition/元素/4.2 思维工具/4.2 思维工具]])))
+#! (ink pub (T i) (attr (type Topic)) (edge (supset [[绝对时间|λ:/Thought-Thing-NL-Cognition/元素/4.2 思维工具/绝对时间]]) (approx+weak [[3.1e7a1 静，一种高级的感情|λ:/Thought-Thing-NL-Cognition/3.1e7a1 静，一种高级的感情]]) (unto [[4.2 思维工具|λ:/Thought-Thing-NL-Cognition/元素/4.2 思维工具/4.2 思维工具]])))
 
 # 当下
 

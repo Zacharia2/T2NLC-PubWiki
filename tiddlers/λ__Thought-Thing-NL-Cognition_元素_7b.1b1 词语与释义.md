@@ -1,4 +1,4 @@
-#! (ink pub (T i) (attr (type Topic) (p curr)) (edge (supset [[3.3 Hi 个体心理学|λ:/Thought-Thing-NL-Cognition/元素/3.3 Hi 个体心理学/3.3 Hi 个体心理学]])))
+#! (ink pub (T i) (attr (type Topic) (p curr)) (edge (supset [[3.1e Humanity-Itself|λ:/Thought-Thing-NL-Cognition/元素/3.1e Humanity-Itself]])))
 
 名字是一个指代，关键是事物概念的本身，而名称可以简化这一过程，例如函数名与函数体。对于函数来说，重要的是函数体，函数的具体算法而非其名称，不可否认的是函数名也很重要。
 

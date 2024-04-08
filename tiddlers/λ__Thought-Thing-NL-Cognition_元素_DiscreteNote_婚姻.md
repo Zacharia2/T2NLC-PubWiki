@@ -1,4 +1,4 @@
-#! (ink pub (T i) (attr (type Topic)) (edge (supset [[3.1d1 爱情和占有|λ:/Thought-Thing-NL-Cognition/3.1d1 爱情和占有]])))
+#! (ink pub (T i) (attr (type Topic)) (edge (supset [[3.1c1 爱情和占有|λ:/Thought-Thing-NL-Cognition/3.1c1 爱情和占有]])))
 
 驰不诺呀：我们的关系无法由婚姻来定义，他们不是一个层面的东西。
 

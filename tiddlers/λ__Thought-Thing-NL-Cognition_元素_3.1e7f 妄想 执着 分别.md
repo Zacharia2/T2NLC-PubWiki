@@ -1,0 +1,3 @@
+#! (ink pub (T i) (attr (type Topic)) (edge (supset [[3.1e Humanity-Itself|λ:/Thought-Thing-NL-Cognition/元素/3.1e Humanity-Itself]])))
+
+佛家说的人世间三苦，也解释为求不得、怨憎会、爱离别

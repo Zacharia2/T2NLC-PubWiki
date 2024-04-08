@@ -1,1 +1,0 @@
-#! (ink pub (T i) (attr (type Topic)) (edge (supset [[智力|λ:/Thought-Thing-NL-Cognition/元素/3.3 Hi 个体心理学/智力/智力]])))

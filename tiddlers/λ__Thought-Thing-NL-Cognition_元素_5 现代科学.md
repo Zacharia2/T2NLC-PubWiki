@@ -1,11 +1,9 @@
 #! (ink pub (T i) (attr (type Topic)))
 
 <<callout type:"" title:"科学在现有基础上，摸索式地不断接近真理。故科学的发展史就是一部人类对宇宙的认识偏差的纠正史。" src:"">>
-
 <<callout type:"科学也是在牛顿时期才跟哲学分开来，那科学讲的是什么呢，是我们知道的东西是有边界的，我们不知道的东西是有很多的，就只能在某一个时刻被证伪了，就说明啊我们知道的是错的，它可以告诉我们，我们不知道多少，而不是告诉我" title:"我们能知道多少。" src:"">>
 > 
 <<callout type:"" title:"而中医就很有意思，它说：哎，你不管知道还是不知道。有用就完了，很有用。" src:"">>
-
 
 1. 科学是关于自然、社会和思维的知识体系。
 2. 科学是社会实践经验的总结，并能在社会实践中得到检验和发展的知识体系。
@@ -25,7 +23,6 @@
 科学包括基础科学与应用科学。[基础科学](https://zh.wikipedia.org/wiki/%E5%9F%BA%E7%A1%80%E7%A7%91%E5%AD%A6 "基础科学")仅以通过试验探究自然原理为目的，其成果一般不容易在短期内得到应用，如物理、化学、生物和[地质学](https://zh.wikipedia.org/wiki/%E5%9C%B0%E8%B4%A8%E5%AD%A6 "地质学")；应用科学则兼有探究原理与关注应用这两个方面的动机，如[医学](https://zh.wikipedia.org/wiki/%E5%8C%BB%E5%AD%A6 "医学")、[药学](https://zh.wikipedia.org/wiki/%E8%8D%AF%E5%AD%A6 "药学")、[应用光学](https://zh.wikipedia.org/w/index.php?title=%E5%BA%94%E7%94%A8%E5%85%89%E5%AD%A6&action=edit&redlink=1 "应用光学（页面不存在）")、[气象学](https://zh.wikipedia.org/wiki/%E6%B0%94%E8%B1%A1%E5%AD%A6 "气象学")、[科技考古学](https://zh.wikipedia.org/wiki/%E7%A7%91%E6%8A%80%E8%80%83%E5%8F%A4%E5%AD%A6 "科技考古学")和[博弈论](https://zh.wikipedia.org/wiki/%E5%8D%9A%E5%BC%88%E8%AE%BA "博弈论")。
 
 <<callout type:"" title:"一切超出科学认知范围的事情，一开始的时候，不都被说成歪理邪说吗？（都是有待验证的学说，大有可为。）" src:"">>
-
 
 
 关于科学，我认为基于科学的，都是可以再现的。即，已经证明的仍可以被反复证明非常切近事实。

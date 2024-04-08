@@ -1,1 +1,1 @@
-#! (ink pub (T i) (attr (type Topic)) (edge (supset [[3.1b 社会互动|λ:/Thought-Thing-NL-Cognition/元素/3.1 IANDTA/3.1b 社会互动]]) (unto [[7 语言|λ:/Thought-Thing-NL-Cognition/元素/7 语言]]) (subset 调侃 开玩笑 冷笑话和禅宗式幽 夸张和夸张的比喻 用词幽默 讽刺和讽刺性评论 卖萌和装傻 双关语 谜语 拼字)))
+#! (ink pub (T i) (attr (type Topic)) (edge (supset [[3.1a 社会互动|λ:/Thought-Thing-NL-Cognition/元素/3.1a 社会互动]]) (unto [[7 语言|λ:/Thought-Thing-NL-Cognition/元素/7 语言]]) (subset 调侃 开玩笑 冷笑话和禅宗式幽 夸张和夸张的比喻 用词幽默 讽刺和讽刺性评论 卖萌和装傻 双关语 谜语 拼字)))

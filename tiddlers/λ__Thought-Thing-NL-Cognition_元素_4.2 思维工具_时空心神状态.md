@@ -1,4 +1,4 @@
-#! (ink pub (T i) (attr (type Topic)) (edge (supset [[4.2 思维工具|λ:/Thought-Thing-NL-Cognition/元素/4.2 思维工具/4.2 思维工具]]) (unto [[反射|λ:/Thought-Thing-NL-Cognition/元素/3.3 Hi 个体心理学/反射]]) (subset [[10.3c 自主独立与自我秩序|λ:/Thought-Thing-NL-Cognition/元素/10.3c 自主独立与自我秩序]]) (cite [[3.3 Hi 个体心理学|λ:/Thought-Thing-NL-Cognition/元素/3.3 Hi 个体心理学/3.3 Hi 个体心理学]] [[镜像简化和抽象分析|λ:/Thought-Thing-NL-Cognition/元素/4.2 思维工具/镜像简化和抽象分析]])))
+#! (ink pub (T i) (attr (type Topic)) (edge (supset [[4.2 思维工具|λ:/Thought-Thing-NL-Cognition/元素/4.2 思维工具/4.2 思维工具]]) (unto [[3.1e7b 反射|λ:/Thought-Thing-NL-Cognition/元素/3.1e7b 反射]]) (subset [[10.3c 自主独立与自我秩序|λ:/Thought-Thing-NL-Cognition/元素/10.3c 自主独立与自我秩序]]) (cite [[3.1e Humanity-Itself|λ:/Thought-Thing-NL-Cognition/元素/3.1e Humanity-Itself]] [[镜像简化和抽象分析|λ:/Thought-Thing-NL-Cognition/元素/4.2 思维工具/镜像简化和抽象分析]])))
 
 [img [飞跃天空之城.png]]
 

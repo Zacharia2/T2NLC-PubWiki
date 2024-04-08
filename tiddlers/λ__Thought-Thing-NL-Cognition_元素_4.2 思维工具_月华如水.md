@@ -1,4 +1,4 @@
-#! (ink pub (T i) (attr (type Topic) (p curr)) (edge (supset [[4.2 思维工具|λ:/Thought-Thing-NL-Cognition/元素/4.2 思维工具/4.2 思维工具]]) (unto [[3.3 Hi 个体心理学|λ:/Thought-Thing-NL-Cognition/元素/3.3 Hi 个体心理学/3.3 Hi 个体心理学]]) (approx+weak [[想象力|λ:/Thought-Thing-NL-Cognition/元素/3.3 Hi 个体心理学/智力/想象力]])))
+#! (ink pub (T i) (attr (type Topic) (p curr)) (edge (supset [[4.2 思维工具|λ:/Thought-Thing-NL-Cognition/元素/4.2 思维工具/4.2 思维工具]]) (unto [[3.1e Humanity-Itself|λ:/Thought-Thing-NL-Cognition/元素/3.1e Humanity-Itself]]) (approx+weak [[3.1e7d5 想象力|λ:/Thought-Thing-NL-Cognition/元素/3.1e7d5 想象力]])))
 
 
 # 月华如水

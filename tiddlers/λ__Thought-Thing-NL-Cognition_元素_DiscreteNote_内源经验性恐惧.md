@@ -1,4 +1,4 @@
-#! (ink pub (T i) (attr (type Topic)) (edge (supset [[心外无物|λ:/Thought-Thing-NL-Cognition/元素/3.3 Hi 个体心理学/心外无物]])))
+#! (ink pub (T i) (attr (type Topic)) (edge (supset [[3.1e2b 心外无物|λ:/Thought-Thing-NL-Cognition/元素/3.1e2b 心外无物]])))
 
 ## 内源经验性人际恐惧
 

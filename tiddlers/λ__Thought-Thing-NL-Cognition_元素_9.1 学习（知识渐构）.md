@@ -1,4 +1,4 @@
-#! (ink pub (T i) (attr (type Topic)) (edge (supset [[3.3 Hi 个体心理学|λ:/Thought-Thing-NL-Cognition/元素/3.3 Hi 个体心理学/3.3 Hi 个体心理学]])))
+#! (ink pub (T i) (attr (type Topic)) (edge (supset [[3.1e Humanity-Itself|λ:/Thought-Thing-NL-Cognition/元素/3.1e Humanity-Itself]])))
 
 # 知识渐构
 <<callout type:"" title:"Modevol](https://www.modevol.com/)" src:"">>

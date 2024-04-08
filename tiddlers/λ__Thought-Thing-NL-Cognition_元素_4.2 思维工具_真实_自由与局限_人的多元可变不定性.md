@@ -1,4 +1,4 @@
-#! (ink pub (T i) (attr (type Case)) (edge (supset [[自由与局限|λ:/Thought-Thing-NL-Cognition/元素/4.2 思维工具/真实/自由与局限/自由与局限]]) (unto [[3.3 Hi 个体心理学|λ:/Thought-Thing-NL-Cognition/元素/3.3 Hi 个体心理学/3.3 Hi 个体心理学]])))
+#! (ink pub (T i) (attr (type Case)) (edge (supset [[自由与局限|λ:/Thought-Thing-NL-Cognition/元素/4.2 思维工具/真实/自由与局限/自由与局限]]) (unto [[3.1e Humanity-Itself|λ:/Thought-Thing-NL-Cognition/元素/3.1e Humanity-Itself]])))
 
 <<callout type:"" title:"不要给自己贴标签，不要试图给他人贴标签。所有的一切都会慢慢改变。人们是会有些倾向，但是这个倾向会慢慢变好。" src:"">>
 

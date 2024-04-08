@@ -1,17 +1,13 @@
-#! (ink pub (T i) (attr (type Topic)) (edge (supset [[心智|λ:/Thought-Thing-NL-Cognition/元素/3.3 Hi 个体心理学/心智]]) (approx+weak [[5 现代科学|λ:/Thought-Thing-NL-Cognition/元素/5 现代科学]])))
+#! (ink pub (T i) (attr (type Topic)) (edge (supset [[3.1e7d6 心智|λ:/Thought-Thing-NL-Cognition/元素/3.1e7d6 心智]]) (approx+weak [[5 现代科学|λ:/Thought-Thing-NL-Cognition/元素/5 现代科学]])))
 
 # 知识
 
 <<callout type:"" title:"**体验，学习**" src:"">>
-
 <<callout type:"" title:"是什么、为什么、怎么样" src:"">>
-
 我们将知识分为两个纬度，思想理论和实践现实，能够通过实践现实的且越容易实现的，可以说是有效或简单
 
 <<callout type:"" title:"你需要信息的输入才有信息的输出，比如阅读文章时，做题时候，才会有新的灵感和见解。" src:"">>
-
 <<callout type:"" title:"当一个东西你越过那个“坎”，真正掌握了他就会成为你的。但如果你没越过那个“坎”，每次要用他的时候都要重新从头开始学习。" src:"">>
-
 
 ## 如何学习？
 

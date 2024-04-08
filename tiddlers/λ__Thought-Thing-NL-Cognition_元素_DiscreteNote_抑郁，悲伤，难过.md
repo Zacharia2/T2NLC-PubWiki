@@ -1,4 +1,4 @@
-#! (ink pub (T i) (attr (type Topic)) (edge (supset [[3.3a2 情绪|λ:/Thought-Thing-NL-Cognition/3.3a2 情绪]]) (unto [[6 心理学|λ:/Thought-Thing-NL-Cognition/元素/6 心理学/6 心理学]])))
+#! (ink pub (T i) (attr (type Topic)) (edge (supset [[3.1e7a2 情绪|λ:/Thought-Thing-NL-Cognition/3.1e7a2 情绪]]) (unto [[6 心理学|λ:/Thought-Thing-NL-Cognition/元素/6 心理学/6 心理学]])))
 
 # 抑郁，我们各自隐藏的秘密。
 

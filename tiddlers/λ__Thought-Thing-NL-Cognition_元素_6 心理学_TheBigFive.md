@@ -1,4 +1,4 @@
-#! (ink pub (T i) (attr (type Topic)) (edge (supset [[6 心理学|λ:/Thought-Thing-NL-Cognition/元素/6 心理学/6 心理学]]) (unto [[3.3 Hi 个体心理学|λ:/Thought-Thing-NL-Cognition/元素/3.3 Hi 个体心理学/3.3 Hi 个体心理学]])))
+#! (ink pub (T i) (attr (type Topic)) (edge (supset [[6 心理学|λ:/Thought-Thing-NL-Cognition/元素/6 心理学/6 心理学]]) (unto [[3.1e Humanity-Itself|λ:/Thought-Thing-NL-Cognition/元素/3.1e Humanity-Itself]])))
 
 关于Bigfive: 麻省理工的心理学教授倾向通过TheBigFive（大五类人格特征）来描述人的人格与个性。
 

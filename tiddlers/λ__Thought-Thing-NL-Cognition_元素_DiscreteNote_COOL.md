@@ -1,2 +1,2 @@
-#! (ink pub (T i) (attr (type Topic)) (edge (supset [[3.3a1 静|λ:/Thought-Thing-NL-Cognition/3.3a1 静]])))
+#! (ink pub (T i) (attr (type Topic)) (edge (supset [[3.1e7a1 静，一种高级的感情|λ:/Thought-Thing-NL-Cognition/3.1e7a1 静，一种高级的感情]])))
 

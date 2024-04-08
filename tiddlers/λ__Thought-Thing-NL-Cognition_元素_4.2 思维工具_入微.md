@@ -2,4 +2,4 @@
 
 
 
-- [[无善恶的自然人性观&有善恶的思想行为表现|λ:/Thought-Thing-NL-Cognition/元素/3.3 Hi 个体心理学/无善恶的自然人性观&有善恶的思想行为表现]]
+- [[3.1e2a 无善无恶心之体|λ:/Thought-Thing-NL-Cognition/元素/3.1e2a 无善无恶心之体]]

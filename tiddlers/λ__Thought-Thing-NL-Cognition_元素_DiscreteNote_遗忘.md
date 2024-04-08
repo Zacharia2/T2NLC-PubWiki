@@ -15,7 +15,7 @@
 
 ## 遗忘是心静的风铃
   
-keys:：[[3.3a1 静|λ:/Thought-Thing-NL-Cognition/3.3a1 静]]
+keys:：[[3.1e7a1 静，一种高级的感情|λ:/Thought-Thing-NL-Cognition/3.1e7a1 静，一种高级的感情]]
 
 越是执着于某事就会被某事所迷惑，越是执着于情，深入于情，就会被情所困扰。
 
