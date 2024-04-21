@@ -65,14 +65,14 @@ function file_filter(suppliedPath, regText, ignore, delTarget) {
     }
 }
 
-function update() {
+function update(vault, regText, ignore, delTarget) {
     // var rootDir = "C:\\Users\\Snowy\\Desktop\\quartz"
     var contentPath = resolve("./content")
-    var icontent = 'Hello, World!';
+    var icontent = readFileSync(resolve("./index.md"), 'utf8');;
     var IndexFile = join(contentPath, "index.md")
     rmdir(contentPath)
-    copydir("C:\\Users\\Snowy\\Documents\\GitHub\\Thought-Thing-NL-Cognition", contentPath)
-    file_filter(contentPath, "ink pub", [".git", ".obsidian", "绘图", "附件"])
+    copydir(vault, contentPath)
+    file_filter(contentPath, regText, ignore, delTarget)
 
     // 同步写入文件
     try {
@@ -89,4 +89,8 @@ function update() {
     console.log("Done!");
 }
 
-update()
+update(
+    "C:\\Users\\Snowy\\Documents\\GitHub\\Thought-Thing-NL-Cognition",
+    "ink pub",
+    [".git", ".obsidian", "绘图", "附件"]
+)
