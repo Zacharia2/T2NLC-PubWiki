@@ -1,0 +1,1 @@
+#! (ink pub (T i) (attr (type Topic)) (edge (supset [[4.2 思维工具]]) (approx+weak 正反馈#[[正负反馈]])))
