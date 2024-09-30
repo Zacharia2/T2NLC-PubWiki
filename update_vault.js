@@ -76,8 +76,8 @@ function file_filter(suppliedPath, regText, flag, ignore, delTarget) {
 function update(vault, regText, flag, ignore, delTarget) {
     // var rootDir = "C:\\Users\\Snowy\\Desktop\\quartz"
     var contentPath = resolve("./content")
-    var icontent = readFileSync(resolve("./index.md"), 'utf8');;
-    var IndexFile = join(contentPath, "index.md")
+    var icontent = readFileSync(resolve("./README.md"), 'utf8');;
+    var IndexFile = join(contentPath, "README.md")
     rmdir(contentPath)
     copydir(vault, contentPath)
     file_filter(contentPath, regText, flag, ignore, delTarget)
