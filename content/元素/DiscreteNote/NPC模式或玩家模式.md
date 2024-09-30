@@ -1,1 +1,0 @@
-#! (ink pub (T i) (attr (type Topic)) (edge (supset [[绝对时间]]) (unto [[10.3c 自主独立与自我秩序]])))

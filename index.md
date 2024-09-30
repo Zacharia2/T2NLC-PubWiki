@@ -1,16 +1,16 @@
 ---
-title: Welcome to T2NLC-PubWiki
+title: Welcome to Digita-Garden-T2NLC
 ---
 
-[![GitHub仓库](https://img.shields.io/badge/GitHub仓库-T2NLC_PubWiki-blue)](https://github.com/Zacharia2/T2NLC-PubWiki)
-[![KTS](https://img.shields.io/badge/KTS-CopyKOS-green)](https://github.com/Zacharia2/Meta-R-Notes/tree/main/GrowthK2S)
+[![GitHub仓库](https://img.shields.io/badge/GitHub仓库-Digita_Garden_T2NLC-blue)](https://github.com/Zacharia2/T2NLC-PubWiki)
+[![KTS](https://img.shields.io/badge/KTS-KCMS-green)](https://github.com/Zacharia2/KCMS)
 
 
-Hi 你好呀，朋友。这是一个实验环境，又或特化的知识图谱，是一个用于思考的过程容器，是只简单经过清洗后聚类但没整理的系列笔记。笔记系统使用【CopyKOS】创建，本体使用Obsidian写作，应用quartz公开，所有内容都将不断地被推理、证伪、重建、修改，是一个不断生长的笔记系统。与此共同进步的还有经过编程与数理思维设计后的CopyKOS。如果你觉得尚可，也许可以点亮一颗小星星以资鼓励。
+Hi 你好呀，朋友。这是一个实验环境，又或特化的知识图谱，是一个用于思考的被系统标记后的数据结构。笔记系统使用【KCMS】创建，本体使用Obsidian写作，采用quartz框架发布，所有内容都将不断地被推理、证伪、重建、修改，是一个不断生长的笔记系统。与此共同进步的还有经过编程与数理思维设计后的KCMS。如果你觉得尚可，也许可以点亮一颗小星星以资鼓励。
 
 每个条目第一行为当前条目的语义空间定义。
 
-<p align="right">outlook：mingyue42w@outlook.com</p>
+<p align="right">outlook：xinglan42w@outlook.com</p>
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 

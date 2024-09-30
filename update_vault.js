@@ -17,7 +17,7 @@ function copydir(sourceFolder, destinationFolder) {
     console.log(`已成功复制文件夹: ${sourceFolder}`);
 }
 
-function file_filter(suppliedPath, regText, ignore, delTarget) {
+function file_filter(suppliedPath, regText, flag, ignore, delTarget) {
     var ignore = ignore || [".git", ".obsidian"],
         delTarget = delTarget || [".git", ".obsidian", ".stignore", ".gitignore"],
         basename,
@@ -42,10 +42,18 @@ function file_filter(suppliedPath, regText, ignore, delTarget) {
                     if (extension === 'md') {
                         let textData = readFileSync(absPath, 'utf8');
                         let reg = RegExp(regMdFileText);
-                        if (!reg.test(textData)) {
-                            // 删掉不符合的MD文件。
-                            rmSync(absPath, { force: true })
-                            console.log(`已过滤: ${basename}`);
+                        if (flag == "z") {
+                            if (!reg.test(textData)) {
+                                // 删除不符合条件的MD文件。
+                                rmSync(absPath, { force: true });
+                                console.log(`模式z-已过滤: ${basename}`);
+                            }
+                        } else if (flag == "f") {
+                            if (reg.test(textData)) {
+                                // 删除符合条件的MD文件。
+                                rmSync(absPath, { force: true });
+                                console.log(`模式f-已过滤: ${basename}`);
+                            }
                         }
                     }
                 } else {
@@ -65,14 +73,14 @@ function file_filter(suppliedPath, regText, ignore, delTarget) {
     }
 }
 
-function update(vault, regText, ignore, delTarget) {
+function update(vault, regText, flag, ignore, delTarget) {
     // var rootDir = "C:\\Users\\Snowy\\Desktop\\quartz"
     var contentPath = resolve("./content")
     var icontent = readFileSync(resolve("./index.md"), 'utf8');;
     var IndexFile = join(contentPath, "index.md")
     rmdir(contentPath)
     copydir(vault, contentPath)
-    file_filter(contentPath, regText, ignore, delTarget)
+    file_filter(contentPath, regText, flag, ignore, delTarget)
 
     // 同步写入文件
     try {
@@ -90,7 +98,8 @@ function update(vault, regText, ignore, delTarget) {
 }
 
 update(
-    "C:\\Users\\Snowy\\Documents\\GitHub\\Thought-Thing-NL-Cognition",
-    "ink pub",
-    [".git", ".obsidian", "绘图", "附件"]
+    "C:/Users/111/Desktop/Veiled-Realms/me and the cosmos",
+    "ink mut",
+    "f",
+    [".git", ".obsidian", "绘图", "附件"],
 )
