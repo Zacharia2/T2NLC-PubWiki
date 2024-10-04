@@ -44,9 +44,17 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
 
       const segmentsElements = segments.map((segment) => <span>{segment}</span>)
 
+      const inkData: { [key: string]: unknown } = {};
+      for (const key in fileData.frontmatter) {
+        if (key.startsWith('ink')) {
+          inkData[key] = fileData.frontmatter[key];
+        }
+      }
       return (
         <p show-comma={options.showComma} class={classNames(displayClass, "content-meta")}>
           {segmentsElements}
+          <br />
+          {JSON.stringify(inkData)}
         </p>
       )
     } else {
