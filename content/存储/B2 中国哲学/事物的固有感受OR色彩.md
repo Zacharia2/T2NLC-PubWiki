@@ -1,4 +1,6 @@
-#! (ink pub (attr (type Topic)))
+---
+ink-acc: pub
+---
 
 有些感受是恒久不变的，
 

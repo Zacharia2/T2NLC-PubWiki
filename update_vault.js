@@ -98,8 +98,8 @@ function update(vault, regText, flag, ignore, delTarget) {
 }
 
 update(
-    "C:/Users/111/Desktop/Veiled-Realms/me and the cosmos",
-    "ink mut",
+    "C:/Users/111/Documents/GitHub/Veiled-Realms/me and cosmos",
+    "ink-acc: mut",
     "f",
     [".git", ".obsidian", "绘图", "附件"],
 )

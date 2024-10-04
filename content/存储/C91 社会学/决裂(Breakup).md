@@ -1,4 +1,7 @@
-#! (ink pub (attr (type Topic)) (edge (approx+weak 绝交)))
+---
+ink-acc: pub
+ink-edge-rel+assoc: 绝交
+---
 
 # Loss or Fail or Disconnection
 

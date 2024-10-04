@@ -8,6 +8,7 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
+      KCMS_知识结构:"https://github.com/Zacharia2/KCMS",
       GitHub: "https://github.com/Zacharia2/T2NLC-PubWiki",
       LICENSE: "https://creativecommons.org/licenses/by-nc-sa/4.0/"
     },

@@ -1,1 +1,4 @@
-#! (ink pub (attr (type Topic)) (edge (unto [[自主独立-关系-自我秩序]])))
+---
+ink-acc: pub
+ink-edge-unto: "[[自主独立-关系-自我秩序]]"
+---

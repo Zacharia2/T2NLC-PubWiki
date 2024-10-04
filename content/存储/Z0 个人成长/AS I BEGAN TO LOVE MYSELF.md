@@ -1,5 +1,6 @@
-#! (ink pub (attr (type Topic))
-
+---
+ink-acc: pub
+---
 
 # AS I BEGAN TO LOVE MYSELF
 

@@ -1,3 +1,4 @@
-#! (ink pub (attr (type Topic))
-
+---
+ink-acc: pub
+---
 IPO：输入、处理、输出

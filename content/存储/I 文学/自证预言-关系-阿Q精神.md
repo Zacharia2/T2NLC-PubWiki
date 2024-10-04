@@ -1,5 +1,6 @@
-#! (ink pub (attr (type Topic))
-
+---
+ink-acc: pub
+---
 
 # 自证预言与阿Q精神
 

@@ -1,5 +1,6 @@
-#! (ink pub (attr (type Topic))
-
+---
+ink-acc: pub
+---
 
 S：开始
 T：连续且纷繁的路径

@@ -1,5 +1,6 @@
-#! (ink pub (attr (type Topic))
-
+---
+ink-acc: pub
+---
 
 # Demand problem model
 需求问题模型：一个需求➕n个问题

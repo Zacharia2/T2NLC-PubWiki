@@ -1,5 +1,6 @@
-#! (ink pub (attr (type Topic))
-
+---
+ink-acc: pub
+---
 
 对信息源或知识进行筛选，，，高质量留下。
 

@@ -8,15 +8,15 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 T2NLC",
-    pageTitleSuffix: "语义内容管理系统实验室",
+    pageTitle: "🪴 KCMS Lab",
+    pageTitleSuffix: " 语义内容管理系统实验室",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
     locale: "zh-CN",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "https://github.com/Zacharia2/T2NLC-PubWiki",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {

@@ -1,5 +1,6 @@
-#! (ink pub (attr (type Topic)) (edge (unto [[自我]])))
-
+---
+ink-acc: pub
+---
 关于Bigfive: 麻省理工的心理学教授倾向通过TheBigFive（大五类人格特征）来描述人的人格与个性。
 
 大五类因素包括：严谨性、外向性、开放性、宜人性与神经质人格特质。

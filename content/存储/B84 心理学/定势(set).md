@@ -1,4 +1,7 @@
-#! (ink pub (attr (type Topic)) (edge (approx+weak [[IANDTA]])))
+---
+ink-acc: pub
+ink-edge-rel+assoc: "[[IANDTA]]"
+---
 
 研究者经常通过研究定势来证明情境和期望对知觉（和反应）的影响。 
 

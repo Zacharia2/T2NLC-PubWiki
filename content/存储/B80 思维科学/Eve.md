@@ -1,4 +1,8 @@
-#! (ink pub (attr (type Topic) (p curr)) (edge (cite [[等价变换]])))
+---
+ink-acc: pub
+ink-p: curr
+ink-edge-cite: "[[等价变换]]"
+---
 
 # Eve
 

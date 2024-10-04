@@ -1,4 +1,7 @@
-#! (ink pub (attr (type Topic)) (edge (approx+weak 《亲密关系》)))
+---
+ink-acc: pub
+ink-edge-rel+assoc: "《亲密关系》"
+---
 
 # CL比较水平
 

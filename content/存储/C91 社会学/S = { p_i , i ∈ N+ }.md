@@ -1,4 +1,6 @@
-#! (ink pub (attr (type Topic)))
+---
+ink-acc: pub
+---
 
 $$
 S = \{ p_i \: | \:i ∈ N^* \}, \ S \supset N

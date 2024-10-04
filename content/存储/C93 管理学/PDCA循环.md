@@ -1,1 +1,4 @@
-#! (ink pub (attr (type Topic)) (edge (approx+weak 正反馈#[[正负反馈]])))
+---
+ink-acc: pub
+ink-edge-rel+assoc: 正反馈#[[正负反馈]]
+---
