@@ -19,6 +19,7 @@ const config: QuartzConfig = {
     baseUrl: "https://github.com/Zacharia2/T2NLC-PubWiki",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
+    generateSocialImages: false,
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
