@@ -77,7 +77,7 @@ function update(vault, regText, flag, ignore, delTarget) {
     // var rootDir = "C:\\Users\\Snowy\\Desktop\\quartz"
     var contentPath = resolve("./content")
     var icontent = readFileSync(resolve("./README.md"), 'utf8');;
-    var IndexFile = join(contentPath, "README.md")
+    var IndexFile = join(contentPath, "index.md")
     rmdir(contentPath)
     copydir(vault, contentPath)
     file_filter(contentPath, regText, flag, ignore, delTarget)
@@ -98,7 +98,7 @@ function update(vault, regText, flag, ignore, delTarget) {
 }
 
 update(
-    "C:/Users/111/Documents/GitHub/Veiled-Realms/me and cosmos",
+    "C:/Users/Snowy/Documents/GitHub/Veiled-Realms/me and cosmos",
     "ink-acc: mut",
     "f",
     [".git", ".obsidian", "绘图", "附件"],
