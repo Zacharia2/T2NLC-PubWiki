@@ -42,9 +42,25 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
         segments.push(<span>{displayedTime}</span>)
       }
 
+      // TODO: 需要在这里进行字段解析。
+      const inkData: { [key: string]: unknown } = {}
+      for (const key in fileData.frontmatter) {
+        if (key.startsWith("ink")) {
+          inkData[key] = fileData.frontmatter[key]
+        }
+      }
+      let INK
+      if (Object.keys(inkData).length !== 0) {
+        INK = <p>{JSON.stringify(inkData)}</p>
+      } else {
+        INK = <p></p>
+      }
+
       return (
         <p show-comma={options.showComma} class={classNames(displayClass, "content-meta")}>
           {segments}
+          <br />
+          {INK}
         </p>
       )
     } else {
