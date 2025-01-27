@@ -2,16 +2,12 @@
 ink-type: map+moc+set
 ---
 
->[!NOTE]
-> 列出，未被索引文件夹中的文件，链接的文件
-
-
 ```dataviewjs
-var index_note_paths = dv.pages('"me and the cosmos/索引"').map((note) => {
+var index_note_paths = dv.pages('"me and cosmos/集合" or "me and cosmos/主题"').map((note) => {
   return note.file.path;
 });
 
-var noins = dv.pages('"me and the cosmos/存储"').map((note) => {
+var noins = dv.pages('"me and cosmos/存储"').map((note) => {
   return { note: note.file, inlinks: note.file.inlinks };
 });
 
@@ -39,3 +35,8 @@ dv.table(
 );
 ```
 
+
+## OpenLab
+- 我需要一个工具，统计是否所有**存储**文件夹下的文件都被**索引**文件索引到了。
+	- 检查反链是否都链接到索引文件夹下的文件里面。
+	- 列出没有被索引到的孤立文件。
