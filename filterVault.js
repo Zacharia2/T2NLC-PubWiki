@@ -165,7 +165,7 @@ function update() {
 
 // Main
 vaultFullPath = "C:/Users/Snowy/Documents/GitHub/Veiled-Realms/me and cosmos"
-imgPath = "C:/Users/Snowy/Documents/GitHub/Veiled-Realms/attachment"
+imgPath = "C:/Users/Snowy/Documents/GitHub/Veiled-Realms/zephyr zone/assets"
 ignore = [".git", ".obsidian", "绘图", "附件"]
 mode_filter = "f"
 regMdFileText = "ink-acc: mut"
