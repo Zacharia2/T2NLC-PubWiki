@@ -1,6 +1,6 @@
 ---
 ink-acc: pub
-ink-type: map+moc+set
+ink-type: map+list
 ---
 [[不确定性和未知]]
 [[敬畏]]
