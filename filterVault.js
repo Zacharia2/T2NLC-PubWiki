@@ -9,6 +9,7 @@ import {
   writeFileSync,
   copyFileSync,
 } from "fs"
+import { log } from "console"
 
 var ignore = [".git", ".obsidian"],
   delTarget = [".git", ".obsidian", ".stignore", ".gitignore"],
@@ -81,7 +82,7 @@ function copyFile1(sfile, tfile) {
     copyFileSync(sfile, tfile)
     console.log(`已筛选并复制: ${basename(sfile)}`)
   } catch (err) {
-    if (err.code !== "EEXIST") throw err
+    log(err)
   }
 }
 
@@ -164,8 +165,8 @@ function update() {
 }
 
 // Main
-vaultFullPath = "C:/Users/Snowy/Documents/GitHub/Veiled-Realms/me and cosmos"
-imgPath = "C:/Users/Snowy/Documents/GitHub/Veiled-Realms/zephyr zone/assets"
+vaultFullPath = "D:/GitHub/Veiled-Realms/me and cosmos"
+imgPath = "D:/GitHub/Veiled-Realms/zephyr zone/assets"
 ignore = [".git", ".obsidian", "绘图", "附件"]
 mode_filter = "f"
 regMdFileText = "ink-acc: mut"
